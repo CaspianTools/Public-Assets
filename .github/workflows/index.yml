@@ -1,0 +1,72 @@
+# Regenerates index.json after every push that touches an update or release
+# note, then asks caspiantools.com to rebuild so the project pages and the
+# RSS / JSON feeds pick the change up within minutes.
+#
+# The commit this job makes uses GITHUB_TOKEN, and GitHub never starts a new
+# workflow run from a GITHUB_TOKEN push, so the job cannot loop on itself.
+#
+# Secret SITE_DISPATCH_TOKEN (optional): a fine-grained PAT with
+# "Contents: read and write" on CaspianTools/caspiantools, which is what the
+# repository_dispatch endpoint requires. Without it the dispatch step is
+# skipped and the site picks the change up at its daily 05:00 UTC rebuild.
+
+name: Build index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+      - scripts/build-index.mjs
+      - .github/workflows/index.yml
+  workflow_dispatch:
+
+concurrency:
+  group: build-index
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    env:
+      HAS_DISPATCH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN != '' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build index.json
+        run: node scripts/build-index.mjs
+
+      - name: Commit index.json if it changed
+        run: |
+          if git diff --quiet -- index.json; then
+            echo "index.json unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          git commit -m "Rebuild index.json"
+          git push
+
+      - name: Rebuild caspiantools.com
+        if: env.HAS_DISPATCH_TOKEN == 'true'
+        env:
+          TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/CaspianTools/caspiantools/dispatches \
+            -d '{"event_type":"publish-site"}'
+          echo "Dispatched publish-site to CaspianTools/caspiantools."
+
+      - name: Note skipped dispatch
+        if: env.HAS_DISPATCH_TOKEN != 'true'
+        run: echo "::notice::SITE_DISPATCH_TOKEN not set; caspiantools.com will pick this up at its daily rebuild."
