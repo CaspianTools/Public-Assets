@@ -4,8 +4,11 @@
 // "Updates" section and to publish the RSS / JSON feeds, so this file is the
 // contract between the two repos.
 //
-//   node scripts/build-index.mjs           rewrite index.json
-//   node scripts/build-index.mjs --check   exit 1 if index.json is stale
+//   node scripts/build-index.mjs              rewrite index.json
+//   node scripts/build-index.mjs --validate   only check every file parses; writes nothing.
+//                                             Run this before pushing a new update — don't
+//                                             commit index.json yourself, the workflow does.
+//   node scripts/build-index.mjs --check      exit 1 if index.json is stale
 //
 // Sources, per <repo>/ folder:
 //   updates/<YYYY>/<YYYY-MM-DD>-<slug>.md   dated posts (_templates/update.md)
@@ -128,7 +131,9 @@ items.sort((a, b) => (a.date === b.date ? (a.id < b.id ? 1 : -1) : a.date < b.da
 
 const json = `${JSON.stringify({ version: 1, items }, null, 2)}\n`;
 
-if (process.argv.includes('--check')) {
+if (process.argv.includes('--validate')) {
+  console.log(`All ${items.length} published files are valid.`);
+} else if (process.argv.includes('--check')) {
   const current = existsSync(OUT) ? readFileSync(OUT, 'utf8').replace(/\r\n/g, '\n') : '';
   if (current !== json) {
     console.error('index.json is stale. Run: node scripts/build-index.mjs');
