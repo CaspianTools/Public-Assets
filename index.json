@@ -2,6 +2,45 @@
   "version": 1,
   "items": [
     {
+      "id": "zekio/updates/2026/2026-10-02-zekio-2-20-isg-uzmanlik-sinavina-hazirlik.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.20: İş Güvenliği Uzmanlığı sınavına hazırlık",
+      "date": "2026-10-02",
+      "type": "feature",
+      "social": true,
+      "summary": "İş güvenliği uzmanı olmaya hazırlananlar için Zekio'da yeni bir program var: İSG. A, B ve C sınıfı sınavlarına yönelik ilk 24 test, 288 soru dört ana başlıkta toplandı: İSG mevzuatı, risk yönetimi, teknik güvenlik ve iş sağlığı.",
+      "body": "İş güvenliği uzmanı olmaya hazırlananlar için Zekio'da yeni bir program var: **İSG**. A, B ve C sınıfı sınavlarına yönelik ilk **24 test, 288 soru** dört ana başlıkta toplandı: İSG mevzuatı, risk yönetimi, teknik güvenlik ve iş sağlığı.\n\nFine-Kinney hesabından acil durum ekiplerine, kapalı alan çalışmasından meslek hastalıklarına kadar her soru, gerçek bir işyeri durumuna dayanıyor. Her çözüm dayandığı kanun ya da yönetmeliği söylüyor; bir kural yasa değil de iyi uygulama veya standart ise onu da açıkça belirtiyor.\n\nZekio'yu açarken sınav olarak **İSG**'yi seç ya da filtrelerden **Program › İSG**'ye dokun.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-02-zekio-2-20-isg-uzmanlik-sinavina-hazirlik.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-02-zekio-2-20-isg-uzmanlik-sinavina-hazirlik.md"
+    },
+    {
+      "id": "zekio/updates/2026/2026-10-02-zekio-2-19-dilini-ve-sinavini-sec.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.19: dilini ve sınavını seç, ana sayfa sana göre açılsın",
+      "date": "2026-10-02",
+      "type": "feature",
+      "social": true,
+      "summary": "Zekio'ya başlarken artık sadece iki şey soruyoruz: hangi dilde çalışmak istediğin ve hangi sınava hazırlandığın. Doğum tarihi ve ülke sorusu kalktı — daha az kişisel bilgi, ilk teste daha hızlı varış.",
+      "body": "Zekio'ya başlarken artık sadece iki şey soruyoruz: **hangi dilde** çalışmak istediğin ve **hangi sınava** hazırlandığın. Doğum tarihi ve ülke sorusu kalktı — daha az kişisel bilgi, ilk teste daha hızlı varış.\n\nAna sayfa seçtiğin dildeki ve sınavdaki testlerle açılıyor. Filtrelerdeki yeni **Dil** bölümüyle diğer dildeki testlere de tek dokunuşla geçebilirsin. Fikrin değişirse **Profil**'deki Dil ve Sınav satırlarından istediğin zaman değiştir.\n\nYou can now start Zekio in English: pick your language and your exam, and Home opens on the tests that fit you.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-02-zekio-2-19-dilini-ve-sinavini-sec.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-02-zekio-2-19-dilini-ve-sinavini-sec.md"
+    },
+    {
+      "id": "zekio/updates/2026/2026-10-02-zekio-2-18-yos-ingilizce-ve-turkce.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.18: YÖS hazırlığı — İngilizce ve Türkçe, şekilli sorularla",
+      "date": "2026-10-02",
+      "type": "feature",
+      "social": true,
+      "summary": "Türkiye'de üniversite okumak isteyen yabancı öğrenciler için YÖS testleri Zekio'da. Her test hem İngilizce hem Türkçe olarak var: temel öğrenme becerileri (sayı ve şekil dizileri, uzamsal akıl yürütme), matematik ve geometri.",
+      "body": "Türkiye'de üniversite okumak isteyen yabancı öğrenciler için **YÖS testleri** Zekio'da. Her test hem **İngilizce** hem **Türkçe** olarak var: temel öğrenme becerileri (sayı ve şekil dizileri, uzamsal akıl yürütme), matematik ve geometri.\n\nSorular artık **şekil** de gösterebiliyor: geometri çizimleri, şekil dizileri, küp açınımları, kâğıt katlama. Bazı sorularda şıkların kendisi birer şekil — doğru olana dokunman yeterli. Şekiller koyu temada da net okunuyor.\n\nYÖS testlerini filtrelerde **Program › YÖS** altında bulabilirsin.\n\nZekio's YÖS practice tests are here for international students — every test comes in both English and Turkish, with figure questions for geometry, figure series and spatial reasoning.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-02-zekio-2-18-yos-ingilizce-ve-turkce.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-02-zekio-2-18-yos-ingilizce-ve-turkce.md"
+    },
+    {
       "id": "caspiantools/updates/2026/2026-10-01-you-can-now-delete-your-workspace-account.md",
       "folder": "caspiantools",
       "product": "Caspian Tools Workspace",
@@ -249,6 +288,19 @@
       "body": "Updates about Caspian Tools products are now written alongside the change itself and published automatically when it ships.\nYou should see news here sooner, and it will match what actually went out.\nNothing changes for you: updates still appear on each product's page at caspiantools.com.",
       "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspiantools/updates/2026/2026-09-28-product-updates-now-publish-straight-from-each-release.md",
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspiantools/updates/2026/2026-09-28-product-updates-now-publish-straight-from-each-release.md"
+    },
+    {
+      "id": "zekio/updates/2026/2026-09-27-zekio-2-17-825-yeni-lgs-testi.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.17: 825 yeni LGS testi, 10.000'den fazla soru",
+      "date": "2026-09-27",
+      "type": "feature",
+      "social": true,
+      "summary": "Zekio'nun LGS soru bankası bir anda dokuz katına çıktı: 825 yeni test, 10.000'den fazla yeni soru. Altı dersin bütün üniteleri artık onlarca testle dolu — Matematik'ten İngilizce'ye kadar.",
+      "body": "Zekio'nun LGS soru bankası bir anda dokuz katına çıktı: **825 yeni test, 10.000'den fazla yeni soru**. Altı dersin bütün üniteleri artık onlarca testle dolu — Matematik'ten İngilizce'ye kadar.\n\nHer soru yazıldıktan sonra ikinci bir kez baştan çözülüp kontrol edildi: cevap anahtarı, şıklar ve çözüm açıklaması tek tek gözden geçirildi. Her çözüm, doğru cevaba nasıl varıldığını adım adım gösteriyor.\n\nTestler artık her ünitede **1, 2, 3…** diye sırayla numaralı ve konular okulda işlendikleri sırayla listeleniyor. Kaldığın yerden devam etmek hiç bu kadar kolay olmamıştı.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-09-27-zekio-2-17-825-yeni-lgs-testi.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-09-27-zekio-2-17-825-yeni-lgs-testi.md"
     },
     {
       "id": "zekio/updates/2026/2026-09-23-zekio-art-k-konu-konu-c-al-s-yor-her-testin-bir-konu-su-var.md",
