@@ -56,6 +56,7 @@ On push, the [Build index](.github/workflows/index.yml) workflow regenerates `in
 | [`caspian-notes/`](caspian-notes/) | Caspian Notes, a VS Code extension: updates |
 | [`caspian-security/`](caspian-security/) | Caspian Security, a VS Code extension: updates |
 | [`caspian-emulator/`](caspian-emulator/) | Caspian Emulator: updates |
+| [`caspian-postman/`](caspian-postman/) | Caspian Mail: updates |
 | [`caspian-office/`](caspian-office/) | Caspian Office: updates and release notes |
 | [`caspiantools/`](caspiantools/) | Caspian Tools Workspace: updates |
 | [`caspianstreamer/`](caspianstreamer/) | Caspian Streamer: updates |
