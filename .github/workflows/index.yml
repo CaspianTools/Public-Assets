@@ -1,14 +1,11 @@
 # Regenerates index.json after every push that touches an update or release
-# note, then asks caspiantools.com to rebuild so the project pages and the
-# RSS / JSON feeds pick the change up within minutes.
+# note. caspiantools.com reads it at build time, so a new update reaches the
+# project pages and the RSS / JSON feeds at the site's next rebuild (daily at
+# 05:00 UTC, or any deploy of caspiantools). There is deliberately no
+# cross-repo trigger: the operator chose the daily cadence over storing a token.
 #
 # The commit this job makes uses GITHUB_TOKEN, and GitHub never starts a new
 # workflow run from a GITHUB_TOKEN push, so the job cannot loop on itself.
-#
-# Secret SITE_DISPATCH_TOKEN (optional): a fine-grained PAT with
-# "Contents: read and write" on CaspianTools/caspiantools, which is what the
-# repository_dispatch endpoint requires. Without it the dispatch step is
-# skipped and the site picks the change up at its daily 05:00 UTC rebuild.
 
 name: Build index
 
@@ -31,8 +28,6 @@ permissions:
 jobs:
   index:
     runs-on: ubuntu-latest
-    env:
-      HAS_DISPATCH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN != '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -55,18 +50,3 @@ jobs:
           git commit -m "Rebuild index.json"
           git push
 
-      - name: Rebuild caspiantools.com
-        if: env.HAS_DISPATCH_TOKEN == 'true'
-        env:
-          TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
-        run: |
-          curl -fsS -X POST \
-            -H "Authorization: Bearer $TOKEN" \
-            -H "Accept: application/vnd.github+json" \
-            https://api.github.com/repos/CaspianTools/caspiantools/dispatches \
-            -d '{"event_type":"publish-site"}'
-          echo "Dispatched publish-site to CaspianTools/caspiantools."
-
-      - name: Note skipped dispatch
-        if: env.HAS_DISPATCH_TOKEN != 'true'
-        run: echo "::notice::SITE_DISPATCH_TOKEN not set; caspiantools.com will pick this up at its daily rebuild."
