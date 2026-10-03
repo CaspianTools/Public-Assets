@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-03-sendhaste-1-21-new-name.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.21.0 — Caspian Mail is now SendHaste",
+      "date": "2026-10-03",
+      "type": "release",
+      "social": true,
+      "summary": "Caspian Mail has a new name: SendHaste, to match its address, sendhaste.com. You'll see the new name in the logo, the browser tab, the installed app, the About page and the help pages. Nothing else changes: your mail, contacts, templates and settings stay exactly where they were, and you sign in the same way. If you installed the app, it picks up the new name on its next update.",
+      "body": "Caspian Mail has a new name: SendHaste, to match its address, sendhaste.com. You'll see the new name in the logo, the browser tab, the installed app, the About page and the help pages. Nothing else changes: your mail, contacts, templates and settings stay exactly where they were, and you sign in the same way. If you installed the app, it picks up the new name on its next update.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-03-sendhaste-1-21-new-name.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-03-sendhaste-1-21-new-name.md"
+    },
+    {
       "id": "zekio/updates/2026/2026-10-02-zekio-2-20-isg-uzmanlik-sinavina-hazirlik.md",
       "folder": "zekio",
       "product": "Zekio",
