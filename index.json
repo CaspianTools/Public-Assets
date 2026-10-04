@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-23-admin-cockpit.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.23.0 — a cockpit for the SendHaste team",
+      "date": "2026-10-04",
+      "type": "release",
+      "social": false,
+      "summary": "This release is mostly behind the scenes: the SendHaste team now runs the service from a single Admin cockpit, with an overview of organizations, users and domains, the app's branding, and the team's own mailboxes in one place. Nothing changes in how you read and send mail; your organization's own settings stay under Settings, as in 1.22.",
+      "body": "This release is mostly behind the scenes: the SendHaste team now runs the service from a single Admin cockpit, with an overview of organizations, users and domains, the app's branding, and the team's own mailboxes in one place. Nothing changes in how you read and send mail; your organization's own settings stay under Settings, as in 1.22.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-23-admin-cockpit.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-23-admin-cockpit.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-03-sendhaste-1-22-six-languages.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
