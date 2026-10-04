@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-33-two-steps.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.33.0 — your own domain in two safe steps",
+      "date": "2026-10-04",
+      "type": "release",
+      "social": false,
+      "summary": "Connecting your own domain to SendHaste now happens in two steps, so no incoming mail is lost while you set up. Step 1 adds three records that prove the domain is yours and let SendHaste send for it; as soon as they're found, the domain switches on and you can create its mailboxes. Step 2, the MX record, comes last: from that moment your incoming mail arrives in SendHaste, and the domain's page sh…",
+      "body": "Connecting your own domain to SendHaste now happens in two steps, so no incoming mail is lost while you set up. Step 1 adds three records that prove the domain is yours and let SendHaste send for it; as soon as they're found, the domain switches on and you can create its mailboxes. Step 2, the MX record, comes last: from that moment your incoming mail arrives in SendHaste, and the domain's page shows that it's receiving. Find it under Settings → Domains → your domain.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-33-two-steps.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-33-two-steps.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-32-own-domain-mailboxes.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
