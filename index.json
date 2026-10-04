@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-27-website.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.27.0 — a new website at sendhaste.com",
+      "date": "2026-10-04",
+      "type": "release",
+      "social": true,
+      "summary": "SendHaste now has its own website at sendhaste.com, in all six languages. It explains how shared inboxes, assignments, templates and rules help a team answer every customer email, walks through getting set up on your own domain, and answers the common questions. If your team shares info@ or sales@, you can request access right from the site.",
+      "body": "SendHaste now has its own website at sendhaste.com, in all six languages. It explains how shared inboxes, assignments, templates and rules help a team answer every customer email, walks through getting set up on your own domain, and answers the common questions. If your team shares info@ or sales@, you can request access right from the site.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-27-website.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-27-website.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-26-draft-attachments.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
