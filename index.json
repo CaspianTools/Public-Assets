@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-28-pricing.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.28.0 — simple pricing: $1 per user per month",
+      "date": "2026-10-04",
+      "type": "release",
+      "social": true,
+      "summary": "SendHaste now has a pricing page: one plan at $1 per user per month, with every feature included. Shared addresses like info@ and sales@ don't count as users, so you only pay for the people who sign in. A calculator on the page shows your team's monthly total, and the whole website now wears the SendHaste blue.",
+      "body": "SendHaste now has a pricing page: one plan at $1 per user per month, with every feature included. Shared addresses like info@ and sales@ don't count as users, so you only pay for the people who sign in. A calculator on the page shows your team's monthly total, and the whole website now wears the SendHaste blue.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-28-pricing.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-28-pricing.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-27-website.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
