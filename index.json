@@ -93,6 +93,20 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-23-admin-cockpit.md"
     },
     {
+      "id": "caspian-office/release-notes/1.230/1.230.2.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Cleaner cut-outs on plain backgrounds: the background remover's Auto (AI) mode no longer leaves a faint haze between letters or pale fringes on the edges.",
+      "date": "2026-10-04",
+      "type": "release",
+      "version": "1.230.2",
+      "social": true,
+      "summary": "Logos and product shots on a plain background now come out of the background remover clean, with no faint veil of the old background left between letters or around the edges.",
+      "body": "![](https://caspianoffice.io/release/v1.230.2.png)\n\n# Caspian Office 1.230.2: Cleaner cut-outs on plain backgrounds\n\nLogos and product shots on a plain background now come out of the background remover clean, with no faint veil of the old background left between letters or around the edges.\n\n- **Improved — No haze between letters.** On a plain background, the Auto (AI) mode now clears the pixels the model wasn't sure about, so no grey smudge is left behind.\n- **Improved — True edge colours.** Pale fringes on edges are un-blended back to the real colour, so the cut-out looks right on dark pages too.\n- **Improved — White inside the subject stays.** White areas inside the subject, like the white of an envelope inside a logo, are left untouched.\n\nBackground removal that runs in your browser, so your image never leaves your device.\n\n🔗 Live: https://caspianoffice.io/tool/bg-remover/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Changed\n- **No more haze around logos and products on a plain background.** Where the Auto (AI) model was unsure, it left a faint veil of the old background: a grey smudge between letters and pale fringes on the edges, easy to miss on white and obvious on a dark page. When the background is one plain colour, the background remover now clears those pixels and restores the true edge colour. White areas inside the subject, such as the white of an envelope inside a logo, are left alone.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.230/1.230.2.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.230/1.230.2.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.230/1.230.1.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
