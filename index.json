@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-26-draft-attachments.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.26.0 — drafts keep their attachments",
+      "date": "2026-10-04",
+      "type": "release",
+      "social": false,
+      "summary": "Files you attach in Compose or in a reply are now saved with the draft as soon as you pick them. When you open the draft again, they're still there, and they go out with the email when you send it. Admin → Branding also takes a logo or favicon of up to 2 MB, up from 256 KB.",
+      "body": "Files you attach in Compose or in a reply are now saved with the draft as soon as you pick them. When you open the draft again, they're still there, and they go out with the email when you send it. Admin → Branding also takes a logo or favicon of up to 2 MB, up from 256 KB.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-26-draft-attachments.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-26-draft-attachments.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-25-password-sign-in.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
