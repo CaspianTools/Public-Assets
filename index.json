@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-38-help-center.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.38.0 — a Help center for your whole team",
+      "date": "2026-10-04",
+      "type": "release",
+      "social": true,
+      "summary": "SendHaste now has a public Help center at https://sendhaste.com/en/help, in all six languages. It has step-by-step guides for everyone on your team: reading and writing mail, assigning and snoozing conversations, labels and auto-replies, templates and group emails, contacts, and every keyboard shortcut. Administrators get a full walkthrough of connecting a domain: the DNS records in plain words, c…",
+      "body": "SendHaste now has a public Help center at https://sendhaste.com/en/help, in all six languages. It has step-by-step guides for everyone on your team: reading and writing mail, assigning and snoozing conversations, labels and auto-replies, templates and group emails, contacts, and every keyboard shortcut. Administrators get a full walkthrough of connecting a domain: the DNS records in plain words, creating mailboxes, and moving your mail over without losing a single email. There's also a page on using Outlook, Apple Mail or a phone's mail app with your mailbox. Find Help in the website's menu, or in the app under your picture.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-38-help-center.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-38-help-center.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-36-compose.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
