@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-34-mailbox-storage.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.34.0 — see each mailbox's storage",
+      "date": "2026-10-04",
+      "type": "release",
+      "social": false,
+      "summary": "Each mailbox on your own domain comes with 5 GB of storage, and you can now see how much of it is used under Settings → Domains → your domain. From 90 % a mailbox is marked \"Nearly full\", and its users see a notice at the top of their mail, so there is time to clear out old mail with large attachments before new mail gets held back.",
+      "body": "Each mailbox on your own domain comes with 5 GB of storage, and you can now see how much of it is used under Settings → Domains → your domain. From 90 % a mailbox is marked \"Nearly full\", and its users see a notice at the top of their mail, so there is time to clear out old mail with large attachments before new mail gets held back.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-34-mailbox-storage.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-34-mailbox-storage.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-33-two-steps.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
