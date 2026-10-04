@@ -80,6 +80,20 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-23-admin-cockpit.md"
     },
     {
+      "id": "caspian-office/release-notes/1.230/1.230.1.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Background remover: Auto (AI) mode works again — it no longer fails with \"mask size mismatch\" after the model loads.",
+      "date": "2026-10-04",
+      "type": "release",
+      "version": "1.230.1",
+      "social": true,
+      "summary": "Auto (AI) background removal failed on every image after the model finished loading, with a misleading \"check your connection\" message. It now cuts out your subject again.",
+      "body": "![](https://caspianoffice.io/release/v1.230.1.png)\n\n# Caspian Office 1.230.1: Background remover's Auto mode works again\n\nAuto (AI) background removal failed on every image after the model finished loading, with a misleading \"check your connection\" message. It now cuts out your subject again.\n\n- **Fixed — Auto (AI) mode no longer stops with \"mask size mismatch\".** The cut-out mask the model returns is now read correctly.\n- **Fixed — Masks of a different size are resized to fit.** If the mask ever comes back at a different size from your image, it is resized to match instead of failing.\n\nBackground removal that runs in your browser, so your image never leaves your device.\n\n🔗 Live: https://caspianoffice.io/tool/bg-remover/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Fixed\n- **Auto (AI) background removal failed on every image.** After the model finished loading, Remove background stopped with \"Check your connection and retry (mask size mismatch)\", even with a working connection. The cut-out mask the model returns is now read correctly, and it is resized to fit if its size ever differs from your image.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.230/1.230.1.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.230/1.230.1.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-03-sendhaste-1-22-six-languages.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
