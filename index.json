@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-36-compose.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.36.0 — Compose writes from the mailbox you're in",
+      "date": "2026-10-04",
+      "type": "release",
+      "social": false,
+      "summary": "When you're reading a mailbox and click Compose, the new email now comes from that mailbox. The From list shows only your own addresses, and switching to another one opens the right form for it straight away. The Send button also stays at the bottom of the Compose window, however short or long your message is.",
+      "body": "When you're reading a mailbox and click Compose, the new email now comes from that mailbox. The From list shows only your own addresses, and switching to another one opens the right form for it straight away. The Send button also stays at the bottom of the Compose window, however short or long your message is.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-36-compose.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-04-sendhaste-1-36-compose.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-04-sendhaste-1-35-catch-all.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
