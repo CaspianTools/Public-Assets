@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "zekio/updates/2026/2026-10-05-zekio-2-22-sinavlar-dersler-testler.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.22: kaydır, sınavından testine — her ders kendi renginde",
+      "date": "2026-10-05",
+      "type": "feature",
+      "social": true,
+      "summary": "Zekio'nun ana sayfası artık üç sayfa: Sınavlar, Dersler ve Testler. Derslerinle açılıyor; sağa kaydır sınavlarını gör, sola kaydır testlere geç. Bir derse dokunduğunda testleri aynı ekranda, konu konu açılıyor — üst bilgi ve alttaki çubuk yerinde kalıyor.",
+      "body": "Zekio'nun ana sayfası artık üç sayfa: **Sınavlar**, **Dersler** ve **Testler**. Derslerinle açılıyor; sağa kaydır sınavlarını gör, sola kaydır testlere geç. Bir derse dokunduğunda testleri aynı ekranda, konu konu açılıyor — üst bilgi ve alttaki çubuk yerinde kalıyor.\n\nHer ders de artık okuldaki gibi kendi renginde: Türkçe kırmızı, Matematik mavi, Fen Bilimleri yeşil, İnkılap Tarihi turuncu, Din Kültürü turkuaz, İngilizce mor. Aradığın dersi bir bakışta bulursun.\n\nHome is now three swipeable pages — exams, subjects and tests — and every subject wears its own classroom colour.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-05-zekio-2-22-sinavlar-dersler-testler.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-05-zekio-2-22-sinavlar-dersler-testler.md"
+    },
+    {
       "id": "zekio/updates/2026/2026-10-05-zekio-2-21-ana-sayfada-derslerin.md",
       "folder": "zekio",
       "product": "Zekio",
