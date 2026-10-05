@@ -46,7 +46,7 @@ Machine-readable source: [`index.json`](index.json), raw at `https://raw.githubu
 2. Copy [`_templates/update.md`](_templates/update.md) to `<repo>/updates/<YYYY>/<YYYY-MM-DD>-<slug>.md`, or [`_templates/release-note.md`](_templates/release-note.md) to `<repo>/release-notes/<major>.<minor>/<X.Y.Z>.md`, and fill in every field.
 3. Commit and push to `main`.
 
-On push, the [Build index](.github/workflows/index.yml) workflow regenerates `index.json`. caspiantools.com picks it up at its next rebuild (daily at 05:00 UTC, or any earlier deploy), and the project page and feeds update then. Before pushing, `node scripts/build-index.mjs --validate` tells you whether a file would be rejected (missing title, bad date, unknown type). Don't commit `index.json` yourself; the workflow does.
+On push, the [Build index](.github/workflows/index.yml) workflow regenerates `index.json`. caspiantools.com checks `index.json` hourly and rebuilds when it has changed, so the project page and feeds update within about an hour. Before pushing, `node scripts/build-index.mjs --validate` tells you whether a file would be rejected (missing title, bad date, unknown type). Don't commit `index.json` yourself; the workflow does.
 
 ## Projects
 
