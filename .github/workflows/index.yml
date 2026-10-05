@@ -1,8 +1,9 @@
 # Regenerates index.json after every push that touches an update or release
-# note. caspiantools.com reads it at build time, so a new update reaches the
-# project pages and the RSS / JSON feeds at the site's next rebuild (daily at
-# 05:00 UTC, or any deploy of caspiantools). There is deliberately no
-# cross-repo trigger: the operator chose the daily cadence over storing a token.
+# note. caspiantools.com reads it at build time. Its deploy-site workflow polls
+# this file hourly and rebuilds when it changed since the last deploy, so a new
+# update reaches the project pages and the RSS / JSON feeds within about an
+# hour. There is deliberately no cross-repo trigger: nothing here holds a token
+# for caspiantools.
 #
 # The commit this job makes uses GITHUB_TOKEN, and GitHub never starts a new
 # workflow run from a GITHUB_TOKEN push, so the job cannot loop on itself.
