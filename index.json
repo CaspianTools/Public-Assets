@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "zekio/updates/2026/2026-10-05-zekio-2-21-ana-sayfada-derslerin.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.21: ana sayfada derslerin, aramada tüm testler",
+      "date": "2026-10-05",
+      "type": "feature",
+      "social": true,
+      "summary": "Zekio'nun ana sayfası yenilendi: uzun bir test listesi yerine, hazırlandığın sınavın her dersi için bir kart görüyorsun. Kartta dersin kaç testi ve konusu olduğu, kaçını çözdüğün bir bakışta görünüyor. Karta dokun, o dersin testleri konu konu, işlendiği sırayla karşına gelsin.",
+      "body": "Zekio'nun ana sayfası yenilendi: uzun bir test listesi yerine, hazırlandığın sınavın **her dersi için bir kart** görüyorsun. Kartta dersin kaç testi ve konusu olduğu, kaçını çözdüğün bir bakışta görünüyor. Karta dokun, o dersin testleri konu konu, işlendiği sırayla karşına gelsin.\n\nBaşka bir sınavın testini ya da arkadaşının gönderdiği test kodunu mu arıyorsun? Üstteki **büyüteç** tüm testleri, favorilerini ve filtreleri tek bir pencerede açıyor. **Ana Sayfa**, **Sıralama** ve **Hakkında** artık alttaki çubukta, bir dokunuş uzağında.\n\nHome now shows a card for each subject of your exam, search opens every test in one place, and a new tab bar keeps Ana Sayfa, Sıralama and Hakkında one tap away.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-05-zekio-2-21-ana-sayfada-derslerin.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-05-zekio-2-21-ana-sayfada-derslerin.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-05-sendhaste-1-42-sender-names.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
