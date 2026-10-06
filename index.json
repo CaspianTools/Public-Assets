@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "zekio/updates/2026/2026-10-06-zekio-2-22-2-google-ile-giris-yeniden-calisiyor.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.22.2: Google ile giriş yeniden çalışıyor",
+      "date": "2026-10-06",
+      "type": "fix",
+      "social": false,
+      "summary": "Play Store'dan indirdiğin Zekio'da \"Google ile Devam Et\" düğmesi hesabını seçtikten sonra bir şey yapmıyordu. Sorun giderildi: artık Google hesabınla tek dokunuşla giriş yapabilirsin. Güncelleme gerekmiyor, telefonundaki uygulama hemen çalışıyor.",
+      "body": "Play Store'dan indirdiğin Zekio'da \"Google ile Devam Et\" düğmesi hesabını seçtikten sonra bir şey yapmıyordu. Sorun giderildi: artık Google hesabınla tek dokunuşla giriş yapabilirsin. Güncelleme gerekmiyor, telefonundaki uygulama hemen çalışıyor.\n\nSigning in with Google works again in the Play Store version of Zekio, with no update needed.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-06-zekio-2-22-2-google-ile-giris-yeniden-calisiyor.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-06-zekio-2-22-2-google-ile-giris-yeniden-calisiyor.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-06-sendhaste-1-48-templates-everywhere.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
