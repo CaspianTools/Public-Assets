@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-06-sendhaste-1-43-4-dns-steps.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.43.4 — a finished domain setup now looks finished",
+      "date": "2026-10-06",
+      "type": "release",
+      "social": false,
+      "summary": "On a domain's page in Settings → Domains, the MX record under \"Step 2: receive mail here\" used to stay open, marked \"Required\", even after mail had started arriving. Now, once step 2 shows \"Done\", its record folds away under \"Show its 1 record\" and is marked \"Found\", like step 1's records already were. Nothing to do on your side: keep your DNS records as they are. The step-by-step guide is at http…",
+      "body": "On a domain's page in Settings → Domains, the MX record under \"Step 2: receive mail here\" used to stay open, marked \"Required\", even after mail had started arriving. Now, once step 2 shows \"Done\", its record folds away under \"Show its 1 record\" and is marked \"Found\", like step 1's records already were. Nothing to do on your side: keep your DNS records as they are. The step-by-step guide is at https://sendhaste.com/en/help/connect-domain.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-06-sendhaste-1-43-4-dns-steps.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-06-sendhaste-1-43-4-dns-steps.md"
+    },
+    {
       "id": "zekio/updates/2026/2026-10-05-zekio-2-22-sinavlar-dersler-testler.md",
       "folder": "zekio",
       "product": "Zekio",
@@ -13,6 +26,19 @@
       "body": "Zekio'nun ana sayfası artık üç sayfa: **Sınavlar**, **Dersler** ve **Testler**. Derslerinle açılıyor; sağa kaydır sınavlarını gör, sola kaydır testlere geç. Bir derse dokunduğunda testleri aynı ekranda, konu konu açılıyor — üst bilgi ve alttaki çubuk yerinde kalıyor.\n\nHer ders de artık okuldaki gibi kendi renginde: Türkçe kırmızı, Matematik mavi, Fen Bilimleri yeşil, İnkılap Tarihi turuncu, Din Kültürü turkuaz, İngilizce mor. Aradığın dersi bir bakışta bulursun.\n\nHome is now three swipeable pages — exams, subjects and tests — and every subject wears its own classroom colour.",
       "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-05-zekio-2-22-sinavlar-dersler-testler.md",
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-05-zekio-2-22-sinavlar-dersler-testler.md"
+    },
+    {
+      "id": "zekio/updates/2026/2026-10-05-zekio-2-22-1-sayfa-noktalari.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.22.1: hangi sayfadasın, üç noktadan anla",
+      "date": "2026-10-05",
+      "type": "feature",
+      "social": false,
+      "summary": "Ana sayfanın üstündeki Sınavlar / Dersler / Testler yazıları yerini üç küçük noktaya bıraktı: bulunduğun sayfa uzun mavi çizgiyle görünüyor. Kaydırarak ya da noktaya dokunarak sayfa değiştirebilirsin. Testler sayfası, son dokunduğun dersin testlerini gösteriyor.",
+      "body": "Ana sayfanın üstündeki Sınavlar / Dersler / Testler yazıları yerini üç küçük noktaya bıraktı: bulunduğun sayfa uzun mavi çizgiyle görünüyor. Kaydırarak ya da noktaya dokunarak sayfa değiştirebilirsin. Testler sayfası, son dokunduğun dersin testlerini gösteriyor.\n\nHome now shows which page you're on with three small dots.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-05-zekio-2-22-1-sayfa-noktalari.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-05-zekio-2-22-1-sayfa-noktalari.md"
     },
     {
       "id": "zekio/updates/2026/2026-10-05-zekio-2-21-ana-sayfada-derslerin.md",
