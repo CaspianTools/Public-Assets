@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-06-sendhaste-1-48-templates-everywhere.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.48.0 — templates in every mailbox",
+      "date": "2026-10-06",
+      "type": "release",
+      "social": false,
+      "summary": "You can now use your templates when writing from any of your mailboxes, drafts included. In the email form, pick one under Design: it opens in the email so you can change the text, buttons and pictures before you send. Templates → Use in an email opens it in the right mailbox too. How templates work: https://sendhaste.com/en/help/templates-groups.",
+      "body": "You can now use your templates when writing from any of your mailboxes, drafts included. In the email form, pick one under Design: it opens in the email so you can change the text, buttons and pictures before you send. Templates → Use in an email opens it in the right mailbox too. How templates work: https://sendhaste.com/en/help/templates-groups.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-06-sendhaste-1-48-templates-everywhere.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-06-sendhaste-1-48-templates-everywhere.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-06-sendhaste-1-47-support.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
