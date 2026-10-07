@@ -2,6 +2,32 @@
   "version": 1,
   "items": [
     {
+      "id": "zekio/updates/2026/2026-10-07-zekio-2-23-once-sinavini-sec.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.23: önce sınavını seç, sonra hep oradan başla",
+      "date": "2026-10-07",
+      "type": "feature",
+      "social": true,
+      "summary": "Zekio'yu ilk açtığında \"Keşfetmeye Başla\" artık sana hangi sınava hazırlandığını soruyor: LGS, İSG ya da YÖS. Seçtiğin anda o sınavın dersleri açılıyor ve uygulama bunu hatırlıyor; bir dahaki sefere doğrudan derslerinle başlarsın. Sınav değiştirmek istersen ana sayfada sağa kaydırman yeterli.",
+      "body": "Zekio'yu ilk açtığında \"Keşfetmeye Başla\" artık sana hangi sınava hazırlandığını soruyor: LGS, İSG ya da YÖS. Seçtiğin anda o sınavın dersleri açılıyor ve uygulama bunu hatırlıyor; bir dahaki sefere doğrudan derslerinle başlarsın. Sınav değiştirmek istersen ana sayfada sağa kaydırman yeterli.\n\nZekio now asks which exam you're studying for the first time you start, and opens straight on its subjects from then on.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-07-zekio-2-23-once-sinavini-sec.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-07-zekio-2-23-once-sinavini-sec.md"
+    },
+    {
+      "id": "zekio/updates/2026/2026-10-07-zekio-2-22-3-yeni-karsilama-ekrani.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.22.3: daha sade bir karşılama ekranı",
+      "date": "2026-10-07",
+      "type": "feature",
+      "social": false,
+      "summary": "Zekio'yu açtığında seni artık uzun açıklamalar değil, büyük Zekio logosu ve hazırlanabileceğin sınavlar karşılıyor: LGS, İSG ve YÖS. Hemen altında kaç test ve soru seni beklediği yazıyor. Tek dokunuşla başlamak için mavi düğme yerinde.",
+      "body": "Zekio'yu açtığında seni artık uzun açıklamalar değil, büyük Zekio logosu ve hazırlanabileceğin sınavlar karşılıyor: LGS, İSG ve YÖS. Hemen altında kaç test ve soru seni beklediği yazıyor. Tek dokunuşla başlamak için mavi düğme yerinde.\n\nZekio's welcome screen is cleaner: the logo, the exams you can prepare for, and how many tests are waiting.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-07-zekio-2-22-3-yeni-karsilama-ekrani.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-07-zekio-2-22-3-yeni-karsilama-ekrani.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-07-sendhaste-1-49-outreach.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
