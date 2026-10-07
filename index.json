@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-07-sendhaste-1-48-1-template-duplicate.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 1.48.1 — Duplicate works again for templates",
+      "date": "2026-10-07",
+      "type": "fix",
+      "social": false,
+      "summary": "Choosing Duplicate in a template's menu showed an error instead of making a copy. It works again: the copy opens in the editor, ready to change. Stop sharing on a template is fixed the same way.",
+      "body": "Choosing Duplicate in a template's menu showed an error instead of making a copy. It works again: the copy opens in the editor, ready to change. Stop sharing on a template is fixed the same way.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-07-sendhaste-1-48-1-template-duplicate.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-07-sendhaste-1-48-1-template-duplicate.md"
+    },
+    {
       "id": "zekio/updates/2026/2026-10-06-zekio-2-22-2-google-ile-giris-yeniden-calisiyor.md",
       "folder": "zekio",
       "product": "Zekio",
