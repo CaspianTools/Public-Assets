@@ -28,6 +28,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-07-zekio-2-22-3-yeni-karsilama-ekrani.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-07-sendhaste-2-2-unread-counts.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.2.0 — unread counts in the Mailbox menu",
+      "date": "2026-10-07",
+      "type": "release",
+      "social": false,
+      "summary": "If you use several mailboxes, the Mailbox menu at the top of the screen now shows how many unread emails are in each one's Inbox, so you can see where new mail is waiting without opening each mailbox. A mailbox with nothing unread shows no number. The counts update by themselves every minute while SendHaste is open.",
+      "body": "If you use several mailboxes, the Mailbox menu at the top of the screen now shows how many unread emails are in each one's Inbox, so you can see where new mail is waiting without opening each mailbox. A mailbox with nothing unread shows no number. The counts update by themselves every minute while SendHaste is open.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-07-sendhaste-2-2-unread-counts.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-07-sendhaste-2-2-unread-counts.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-07-sendhaste-2-1-api-templates.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
