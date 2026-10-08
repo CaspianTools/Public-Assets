@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-08-zekio-2-24-isg-ve-yos-icin-291-yeni-test.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-8-access-and-api-key-notifications.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.8.0 — know when you lose access, and when API keys change",
+      "date": "2026-10-08",
+      "type": "release",
+      "social": false,
+      "summary": "The bell now tells you when you're taken off a domain, when you lose access to a mailbox (it names which ones), and when a mailbox you had is removed. Org Super Admins also get a heads-up when someone makes or revokes an API key, under a new Security group. Each has its own switch in Settings → Notifications. More in the help center: https://sendhaste.com/en/help/notifications",
+      "body": "The bell now tells you when you're taken off a domain, when you lose access to a mailbox (it names which ones), and when a mailbox you had is removed. Org Super Admins also get a heads-up when someone makes or revokes an API key, under a new **Security** group. Each has its own switch in **Settings** → **Notifications**. More in the help center: https://sendhaste.com/en/help/notifications",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-8-access-and-api-key-notifications.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-8-access-and-api-key-notifications.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-7-domain-and-mailbox-notifications.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
