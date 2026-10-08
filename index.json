@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-3-notifications.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.3.0 — notifications under a bell",
+      "date": "2026-10-08",
+      "type": "release",
+      "social": false,
+      "summary": "A bell at the top of SendHaste now tells you when something changes for you: when you're added to an organization or a domain, when your role or mailboxes change, and when the SendHaste team answers your support ticket. A number on the bell shows how many you haven't seen yet, and clicking a notification takes you to where it happened. Opening the bell marks them read, and See all notifications (a…",
+      "body": "A bell at the top of SendHaste now tells you when something changes for you: when you're added to an organization or a domain, when your role or mailboxes change, and when the SendHaste team answers your support ticket. A number on the bell shows how many you haven't seen yet, and clicking a notification takes you to where it happened. Opening the bell marks them read, and **See all notifications** (also in Settings → Notifications) shows the full list. More in the help center: https://sendhaste.com/en/help/notifications",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-3-notifications.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-3-notifications.md"
+    },
+    {
       "id": "zekio/updates/2026/2026-10-07-zekio-2-23-once-sinavini-sec.md",
       "folder": "zekio",
       "product": "Zekio",
