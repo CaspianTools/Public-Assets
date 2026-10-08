@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-08-zekio-2-24-isg-ve-yos-icin-291-yeni-test.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-5-your-notifications.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.5.0 — choose your own notifications",
+      "date": "2026-10-08",
+      "type": "release",
+      "social": false,
+      "summary": "Everyone can now choose what they're notified about under the bell: open Settings → Notifications, turn off what you don't need and click Save. Each notification has its own switch, grouped under Organization, Domains and Support, and the organization settings for Org Super Admins (Settings → Organization → Notifications) work the same way. Anything your organization has turned off is shown greyed…",
+      "body": "Everyone can now choose what they're notified about under the bell: open **Settings** → **Notifications**, turn off what you don't need and click **Save**. Each notification has its own switch, grouped under **Organization**, **Domains** and **Support**, and the organization settings for Org Super Admins (**Settings** → **Organization** → **Notifications**) work the same way. Anything your organization has turned off is shown greyed out. More in the help center: https://sendhaste.com/en/help/notifications",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-5-your-notifications.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-5-your-notifications.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-4-notification-switches.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
