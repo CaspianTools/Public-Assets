@@ -106,6 +106,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-3-notifications.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-11-add-a-person.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.11.0 — Adding a colleague with their own mailbox",
+      "date": "2026-10-08",
+      "type": "release",
+      "social": false,
+      "summary": "Giving a new colleague their own mailbox is quicker. After Add user in Settings → Users, the page shows the next step: give them a mailbox on one of your domains. When you create a mailbox, the new Assign to field gives it to them right away. The full address shows as you type, and an address that already exists is caught before you save.",
+      "body": "Giving a new colleague their own mailbox is quicker. After **Add user** in Settings → Users, the page shows the next step: give them a mailbox on one of your domains. When you create a mailbox, the new **Assign to** field gives it to them right away. The full address shows as you type, and an address that already exists is caught before you save.\n\nA new mailbox's password now stays hidden until you click **Show password**, and **Done** waits until you confirm you've copied it. The page also tells you who can read the new mailbox.\n\nSmaller improvements: signatures now show the address you send from, a message after saving no longer comes back when you reload the page, errors appear where you're looking, and the domain list no longer counts the catch-all as an extra email.\n\nThe help center has a new page with the whole process as a diagram, from adding someone to telling them how to sign in: [Add a person with their own mailbox](https://sendhaste.com/en/help/add-person).",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-11-add-a-person.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-11-add-a-person.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-10-mailbox-menu-by-domain.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
