@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-08-zekio-2-24-isg-ve-yos-icin-291-yeni-test.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-6-spam.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.6.0 — report spam, block senders, and a spam filter",
+      "date": "2026-10-08",
+      "type": "release",
+      "social": true,
+      "summary": "Spam in your Inbox? Tick it, or open it, and click Report spam to move it to Junk Mail. Click Block sender to stop an address for good: their next emails go straight to Junk Mail too. If something lands there by mistake, open Junk Mail and click Not spam to bring it back. A new spam filter also moves clear spam out of your Inbox on its own, including fake payment requests that pretend to come from…",
+      "body": "Spam in your Inbox? Tick it, or open it, and click **Report spam** to move it to **Junk Mail**. Click **Block sender** to stop an address for good: their next emails go straight to Junk Mail too. If something lands there by mistake, open Junk Mail and click **Not spam** to bring it back. A new spam filter also moves clear spam out of your Inbox on its own, including fake payment requests that pretend to come from your own domain. Org Super Admins can switch it off in **Settings** → **Organization** → **Spam filter**. More in the help center: https://sendhaste.com/en/help/spam",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-6-spam.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-6-spam.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-5-your-notifications.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
