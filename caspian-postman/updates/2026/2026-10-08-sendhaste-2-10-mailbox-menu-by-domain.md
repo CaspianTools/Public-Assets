@@ -11,4 +11,4 @@ The mailbox menu in the header now groups your mailboxes by domain, with the dom
 
 The bar above the email list that repeated the open mailbox's address is gone, leaving more room for your emails. The **Mailbox** button in the header still shows which mailbox is open.
 
-Read more in [Your inbox](https://sendhaste.com/en/help/inbox).
+Read more in [Reading your mail](https://sendhaste.com/en/help/inbox).
