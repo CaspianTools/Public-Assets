@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-08-zekio-2-24-isg-ve-yos-icin-291-yeni-test.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-9-dmarc-guidance.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.9.0 — When to tighten your domain's DMARC record",
+      "date": "2026-10-08",
+      "type": "release",
+      "social": false,
+      "summary": "The help center now explains when to tighten your domain's DMARC record. Your record starts with p=none, so no email you send is lost while you set up. After a few weeks, once every service that sends as your domain is set up (your website's forms, an invoicing tool), change it to p=quarantine. Fake emails pretending to be you then go to spam instead of reaching people's Inboxes.",
+      "body": "The help center now explains when to tighten your domain's DMARC record. Your record starts with p=none, so no email you send is lost while you set up. After a few weeks, once every service that sends as your domain is set up (your website's forms, an invoicing tool), change it to p=quarantine. Fake emails pretending to be you then go to spam instead of reaching people's Inboxes.\n\nRead more under \"After you connect\" in [Connect your domain](https://sendhaste.com/en/help/connect-domain).",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-9-dmarc-guidance.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-9-dmarc-guidance.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-8-access-and-api-key-notifications.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
