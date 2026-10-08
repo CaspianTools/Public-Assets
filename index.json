@@ -106,6 +106,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-3-notifications.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-08-sendhaste-2-10-mailbox-menu-by-domain.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.10.0 — Mailboxes grouped by domain",
+      "date": "2026-10-08",
+      "type": "release",
+      "social": false,
+      "summary": "The mailbox menu in the header now groups your mailboxes by domain, with the domain's name above each group, so it's quicker to find the one you want when you work with several domains. Typing in Find a mailbox still narrows the list, and domains with no match are hidden.",
+      "body": "The mailbox menu in the header now groups your mailboxes by domain, with the domain's name above each group, so it's quicker to find the one you want when you work with several domains. Typing in **Find a mailbox** still narrows the list, and domains with no match are hidden.\n\nThe bar above the email list that repeated the open mailbox's address is gone, leaving more room for your emails. The **Mailbox** button in the header still shows which mailbox is open.\n\nRead more in [Reading your mail](https://sendhaste.com/en/help/inbox).",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-10-mailbox-menu-by-domain.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-08-sendhaste-2-10-mailbox-menu-by-domain.md"
+    },
+    {
       "id": "zekio/updates/2026/2026-10-07-zekio-2-23-once-sinavini-sec.md",
       "folder": "zekio",
       "product": "Zekio",
