@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-21-rules-out-of-office.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.21.0 — Rules and out of office",
+      "date": "2026-10-09",
+      "type": "release",
+      "social": true,
+      "summary": "Each mailbox now has Rules and out of office, under This mailbox in the sidebar. Switch on Reply automatically to answer senders while you're away, with an optional first and last day; each sender gets the reply once every four days, and colleagues never do. Forwarding sends every email on to another address, and rules can label, mark as read, move or forward emails by sender, recipient or subject…",
+      "body": "Each mailbox now has **Rules and out of office**, under **This mailbox** in the sidebar. Switch on **Reply automatically** to answer senders while you're away, with an optional first and last day; each sender gets the reply once every four days, and colleagues never do. **Forwarding** sends every email on to another address, and rules can label, mark as read, move or forward emails by sender, recipient or subject. They keep working while SendHaste is closed, and everyone who reads the mailbox shares them. Administrators decide in **Settings → Organization → Forwarding** whether mail may be forwarded outside the organization. Step by step: https://sendhaste.com/en/help/labels-rules",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-21-rules-out-of-office.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-21-rules-out-of-office.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-20-show-password.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
