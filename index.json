@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-33-contacts-on-phone.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.33.0 — Your contacts on your phone",
+      "date": "2026-10-09",
+      "type": "release",
+      "social": true,
+      "summary": "Your SendHaste contacts can now show up in your phone's contacts and mail apps, and stay up to date. Open Settings → Sign-in and security → Contacts on your phone, click Make a sync password, then add a CardDAV account on your iPhone, iPad, Mac or Android phone with the details shown. You get the contacts you see in SendHaste. It's read-only for now: change contacts in SendHaste. More: https://sen…",
+      "body": "Your SendHaste contacts can now show up in your phone's contacts and mail apps, and stay up to date. Open **Settings → Sign-in and security → Contacts on your phone**, click **Make a sync password**, then add a CardDAV account on your iPhone, iPad, Mac or Android phone with the details shown. You get the contacts you see in SendHaste. It's read-only for now: change contacts in SendHaste. More: https://sendhaste.com/en/help/contacts",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-33-contacts-on-phone.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-33-contacts-on-phone.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-32-sign-in-rules.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
