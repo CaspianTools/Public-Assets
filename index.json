@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-15-invitation-email.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-15-2-invited.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.15.2 — See when an invitation went out",
+      "date": "2026-10-09",
+      "type": "release",
+      "social": false,
+      "summary": "In Settings → Users, each person now shows Invited with the time their invitation email was last sent, so you can check it went out after the confirmation message has gone. If the email can't be sent, you now see an error within seconds instead of a page that keeps waiting.",
+      "body": "In **Settings → Users**, each person now shows **Invited** with the time their invitation email was last sent, so you can check it went out after the confirmation message has gone. If the email can't be sent, you now see an error within seconds instead of a page that keeps waiting.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-15-2-invited.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-15-2-invited.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-15-1-optional-records-check.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
