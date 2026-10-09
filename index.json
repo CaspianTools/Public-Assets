@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-16-help-search-contact-form.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-16-1-notifications-reset.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.16.1 — A fresh bell for people added back",
+      "date": "2026-10-09",
+      "type": "release",
+      "social": false,
+      "summary": "When someone is removed from your organization in Settings → Users and later added back, their bell now starts empty. Before, they could still see the notifications from before they were removed. Read more about notifications.",
+      "body": "When someone is removed from your organization in **Settings** → **Users** and later added back, their bell now starts empty. Before, they could still see the notifications from before they were removed. Read more about [notifications](https://sendhaste.com/en/help/notifications).",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-16-1-notifications-reset.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-16-1-notifications-reset.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-15-invitation-email.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
