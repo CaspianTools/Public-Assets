@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-19-two-step-sign-in.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-19-1-sign-in-without-google.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.19.1 — Clearer sign-in for people without a Google account",
+      "date": "2026-10-09",
+      "type": "release",
+      "social": false,
+      "summary": "You can add a colleague to SendHaste with any email address they already use, not only a Google account. The invitation email now explains both ways in: Continue with Google, or Create a password for any other address. The help center's guide to adding a person with their own mailbox walks through each step, including how to check who can read the new mailbox: https://sendhaste.com/en/help/add-per…",
+      "body": "You can add a colleague to SendHaste with any email address they already use, not only a Google account. The invitation email now explains both ways in: **Continue with Google**, or **Create a password** for any other address. The help center's guide to adding a person with their own mailbox walks through each step, including how to check who can read the new mailbox: https://sendhaste.com/en/help/add-person",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-19-1-sign-in-without-google.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-19-1-sign-in-without-google.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-18-import-into-a-mailbox.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
