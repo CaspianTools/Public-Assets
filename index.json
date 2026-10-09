@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-14-contact-levels.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.14.0 — Your own contacts, and sharing them with your team",
+      "date": "2026-10-09",
+      "type": "release",
+      "social": false,
+      "summary": "Everyone can now keep contacts of their own: open Quick add (+ in the header) and choose Contact. A new contact starts at Only me, so nobody else sees it, administrators included, and it's marked Only you in your list.",
+      "body": "Everyone can now keep contacts of their own: open **Quick add** (+ in the header) and choose **Contact**. A new contact starts at **Only me**, so nobody else sees it, administrators included, and it's marked **Only you** in your list.\n\nWhen a contact should be shared, **Who sees it** on the contact decides. An administrator of a domain can share it with **Everyone on** that domain, and an organization's administrator with **Everyone in the organization**. Contacts added automatically from your mail stay as they were: you see the ones your mailboxes wrote with.\n\nMore in [Contacts and companies](https://sendhaste.com/en/help/contacts).",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-14-contact-levels.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-14-contact-levels.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-13-member-notifications.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
