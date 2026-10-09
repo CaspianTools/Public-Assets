@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-13-member-notifications.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.13.0 — Clearer notification settings for your team",
+      "date": "2026-10-09",
+      "type": "release",
+      "social": false,
+      "summary": "People without an admin role now see a shorter Settings → Notifications: only the notifications that can reach them, in three groups (About you, Your mailboxes and Support), worded for them. Notifications meant for administrators, like a domain being switched on or API keys, are no longer listed there.",
+      "body": "People without an admin role now see a shorter **Settings → Notifications**: only the notifications that can reach them, in three groups (**About you**, **Your mailboxes** and **Support**), worded for them. Notifications meant for administrators, like a domain being switched on or API keys, are no longer listed there.\n\n**Domain access changed** and **Mailbox access removed** are always on for them, so everyone is told when their access to mail changes. Administrators keep the full list. More in [Notifications](https://sendhaste.com/en/help/notifications).",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-13-member-notifications.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-13-member-notifications.md"
+    },
+    {
       "id": "zekio/updates/2026/2026-10-08-zekio-2-24-isg-ve-yos-icin-291-yeni-test.md",
       "folder": "zekio",
       "product": "Zekio",
