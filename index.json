@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-26-download-mailbox.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.26.0 — Download a whole mailbox",
+      "date": "2026-10-09",
+      "type": "release",
+      "social": false,
+      "summary": "Your mail is yours to take with you. An organization's administrator can now open Settings → Import & export → Download a mailbox, pick a mailbox they can read and click Download .zip: every email comes as an .eml file, in one folder per mail folder, ready for mail apps and other mail services. Keep the page open while the bar fills; a large mailbox comes as several .zip files. More: https://sendh…",
+      "body": "Your mail is yours to take with you. An organization's administrator can now open **Settings → Import & export → Download a mailbox**, pick a mailbox they can read and click **Download .zip**: every email comes as an .eml file, in one folder per mail folder, ready for mail apps and other mail services. Keep the page open while the bar fills; a large mailbox comes as several .zip files. More: https://sendhaste.com/en/help/move-mail",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-26-download-mailbox.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-09-sendhaste-2-26-download-mailbox.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-09-sendhaste-2-25-fake-email-warnings.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
