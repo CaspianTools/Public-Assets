@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-38-quick-add.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.38.0 — More to add from the + button",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": false,
+      "summary": "The + button in the header (Quick add) now opens more forms right in the popup. Everyone can send a Support request from it. Org Super Admins can also add an Email label, a User, a Domain, an Email address or an API key without leaving the page they are on, and Domain Super Admins can add email addresses on their own domains. Each person sees only what their role lets them add. More: https://sendh…",
+      "body": "The **+** button in the header (**Quick add**) now opens more forms right in the popup. Everyone can send a **Support request** from it. Org Super Admins can also add an **Email label**, a **User**, a **Domain**, an **Email address** or an **API key** without leaving the page they are on, and Domain Super Admins can add email addresses on their own domains. Each person sees only what their role lets them add. More: https://sendhaste.com/en/help/getting-started",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-38-quick-add.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-38-quick-add.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-37-google-sign-in.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
