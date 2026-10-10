@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-53-offline.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.53.0 — Read and write offline",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": true,
+      "summary": "SendHaste now works without a connection on a device that's yours. In Settings → Offline, switch on Use SendHaste offline on this device: the emails you open, and the newest of each list you look at, stay readable offline, and a bar at the top tells you when you're offline. Emails you send while offline wait on the device and go by themselves once you're back online. Signing out deletes everything…",
+      "body": "SendHaste now works without a connection on a device that's yours. In Settings → **Offline**, switch on **Use SendHaste offline on this device**: the emails you open, and the newest of each list you look at, stay readable offline, and a bar at the top tells you when you're offline. Emails you send while offline wait on the device and go by themselves once you're back online. Signing out deletes everything it kept. More: https://sendhaste.com/en/help/inbox",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-53-offline.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-53-offline.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-52-roles.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
