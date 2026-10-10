@@ -28,6 +28,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-57-quick-add.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-57-1-compose-from.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.57.1 — Smoother Compose and out-of-office replies",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": false,
+      "summary": "Two small improvements. In Compose, picking another mailbox under From now keeps the recipients, subject and message you've already typed; only attachments need adding again. Out-of-office replies now come from the mailbox's name, the one set in Sends as, instead of just its address. More: https://sendhaste.com/en/help/labels-rules",
+      "body": "Two small improvements. In Compose, picking another mailbox under **From** now keeps the recipients, subject and message you've already typed; only attachments need adding again. Out-of-office replies now come from the mailbox's name, the one set in **Sends as**, instead of just its address. More: https://sendhaste.com/en/help/labels-rules",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-57-1-compose-from.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-57-1-compose-from.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-56-team-addresses.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
