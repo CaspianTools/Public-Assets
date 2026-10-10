@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.25: Yenilikler artık uygulamada",
+      "date": "2026-10-10",
+      "type": "feature",
+      "social": true,
+      "summary": "Zekio'yu güncelledikten sonra ilk açtığında, güncellemenin getirdiklerini kısa bir turla görüyorsun: her yenilik için bir sayfa, küçük bir çizim ve birkaç satır açıklama. Bazı sayfalar seni doğrudan o özelliğe götürür; \"Yeni testleri gör\" ile yeni gelen testlere tek dokunuşla ulaşırsın. Her sayfa yalnızca bir kez gösterilir, bir güncellemeyi atladıysan kaçırdıklarını da sırayla görürsün. Tur açık…",
+      "body": "Zekio'yu güncelledikten sonra ilk açtığında, güncellemenin getirdiklerini kısa bir turla görüyorsun: her yenilik için bir sayfa, küçük bir çizim ve birkaç satır açıklama. Bazı sayfalar seni doğrudan o özelliğe götürür; \"Yeni testleri gör\" ile yeni gelen testlere tek dokunuşla ulaşırsın. Her sayfa yalnızca bir kez gösterilir, bir güncellemeyi atladıysan kaçırdıklarını da sırayla görürsün. Tur açık ve koyu temada, telefon dik ya da yan tutulduğunda çalışıyor; Türkçe, İngilizce, Arapça, Fransızca ve Almanca dillerinde.\n\nAfter every update, Zekio now opens with a short tour of what's new — one page per change, shown once, with shortcuts straight to the new features.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-39-api-key-popup.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
