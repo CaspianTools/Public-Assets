@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-54-mailbox-panel.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.54.0 — Each email's settings in a side panel",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": false,
+      "summary": "The list of emails on a domain is now easier to scan. In Settings → Domains, open a domain: under Emails, each address is one short row. Click it and its settings (Sends as, Also receives, New password, Delete mailbox) open in a panel on the right, with one Save button. Create a mailbox opens in the same kind of panel, from the button above the list. More: https://sendhaste.com/en/help/connect-dom…",
+      "body": "The list of emails on a domain is now easier to scan. In Settings → **Domains**, open a domain: under **Emails**, each address is one short row. Click it and its settings (**Sends as**, **Also receives**, **New password**, **Delete mailbox**) open in a panel on the right, with one **Save** button. **Create a mailbox** opens in the same kind of panel, from the button above the list. More: https://sendhaste.com/en/help/connect-domain",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-54-mailbox-panel.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-54-mailbox-panel.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-53-offline.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
