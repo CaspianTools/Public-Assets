@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-52-roles.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.52.0 — Your own roles and permissions",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": false,
+      "summary": "Organization administrators can now decide who helps run SendHaste. In Settings → Roles, switch on what the Org Member role may do, such as Users, Domains, Activity or Export, and each opens that part of Settings. Under New role, make roles of your own, like Office manager, and give them to people in Settings → Users. Nobody can give a role that may do more than their own. More: https://sendhaste.…",
+      "body": "Organization administrators can now decide who helps run SendHaste. In Settings → **Roles**, switch on what the **Org Member** role may do, such as **Users**, **Domains**, **Activity** or **Export**, and each opens that part of Settings. Under **New role**, make roles of your own, like Office manager, and give them to people in Settings → **Users**. Nobody can give a role that may do more than their own. More: https://sendhaste.com/en/help/people-access",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-52-roles.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-52-roles.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-51-labels.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
