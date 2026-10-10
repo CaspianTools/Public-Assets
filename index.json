@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-46-allowed-senders.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.46.0 — Allowed senders and a spam report",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": false,
+      "summary": "In a mailbox's Rules, Allowed senders lists the people and companies whose mail must never land in Junk Mail. Their mail already there comes back to the Inbox. Always show pictures from shows pictures in their emails straight away, and you can add a sender with one click under any of their emails. Org Super Admins can keep both lists for the whole organization, and Settings → Usage now has a Spam,…",
+      "body": "In a mailbox's **Rules**, **Allowed senders** lists the people and companies whose mail must never land in Junk Mail. Their mail already there comes back to the Inbox. **Always show pictures from** shows pictures in their emails straight away, and you can add a sender with one click under any of their emails. Org Super Admins can keep both lists for the whole organization, and **Settings** → **Usage** now has a **Spam, last 30 days** report. More: https://sendhaste.com/en/help/spam",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-46-allowed-senders.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-46-allowed-senders.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-45-rules.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
