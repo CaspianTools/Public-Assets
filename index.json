@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-59-users.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.59.0 — A tidier Users page",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": false,
+      "summary": "Settings → Users is easier to scan: each person is now one short row with their roles. Click a person to open their settings in a panel on the right, where you change their Organization role and click Save, see their Domains, or use Sign-in, Send invitation and Remove. Add a user and Add many from a file sit above the list. More: https://sendhaste.com/en/help/people-access",
+      "body": "**Settings** → **Users** is easier to scan: each person is now one short row with their roles. Click a person to open their settings in a panel on the right, where you change their **Organization role** and click **Save**, see their **Domains**, or use **Sign-in**, **Send invitation** and **Remove**. **Add a user** and **Add many from a file** sit above the list. More: https://sendhaste.com/en/help/people-access",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-59-users.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-59-users.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-58-mail-apps.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
