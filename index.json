@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-39-api-key-popup.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.39.0 — New API keys open in a window",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": false,
+      "summary": "When you make a key in Settings → API keys, it now opens in its own window. The window shows the key's Name and the address it Sends from, so you know which website or app it is for. Click Copy, then Done, and the key is cleared from the page. More: https://sendhaste.com/en/help/api",
+      "body": "When you make a key in Settings → **API keys**, it now opens in its own window. The window shows the key's **Name** and the address it **Sends from**, so you know which website or app it is for. Click **Copy**, then **Done**, and the key is cleared from the page. More: https://sendhaste.com/en/help/api",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-39-api-key-popup.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-39-api-key-popup.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-38-quick-add.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
