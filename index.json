@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-61-from-addresses.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.61.0 — Your apps can list the addresses they may send from",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": false,
+      "summary": "The sending API can now tell your apps and websites which of your addresses an API key may send from. Instead of writing a From address into their code, your apps can offer people a choice, and they only ever see addresses the key is allowed to use. Developers will find how it works in Help, under Sending API: https://sendhaste.com/en/help/api",
+      "body": "The sending API can now tell your apps and websites which of your addresses an API key may send from. Instead of writing a From address into their code, your apps can offer people a choice, and they only ever see addresses the key is allowed to use. Developers will find how it works in Help, under Sending API: https://sendhaste.com/en/help/api",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-61-from-addresses.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-61-from-addresses.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-60-mailbox-google-sign-in.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
