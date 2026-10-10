@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-50-signatures.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.50.0 — Several signatures",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": false,
+      "summary": "In Your profile → Signature you can now keep more signatures of your own, such as a short one for replies. Choose what new emails start with and what replies and forwards start with, and set a signature for each address you send from. In Compose, the Signature list next to Attach swaps the signature in your message. A company signature locked by your administrator still applies to its domain. More…",
+      "body": "In **Your profile** → **Signature** you can now keep more signatures of your own, such as a short one for replies. Choose what new emails start with and what replies and forwards start with, and set a signature for each address you send from. In Compose, the **Signature** list next to Attach swaps the signature in your message. A company signature locked by your administrator still applies to its domain. More: https://sendhaste.com/en/help/writing",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-50-signatures.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-50-signatures.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-49-formatting.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
