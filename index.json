@@ -28,6 +28,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-60-mailbox-google-sign-in.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-60-1-small-phones.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.60.1 — The header fits the smallest phones",
+      "date": "2026-10-10",
+      "type": "fix",
+      "social": false,
+      "summary": "On the smallest phones, the header fits on one line again: the search box no longer slides under the + button, and your picture isn't cut off. On a domain's page, the Emails count now includes the catch-all row, so it matches the list.",
+      "body": "On the smallest phones, the header fits on one line again: the search box no longer slides under the **+** button, and your picture isn't cut off. On a domain's page, the **Emails** count now includes the catch-all row, so it matches the list.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-60-1-small-phones.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-60-1-small-phones.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-59-users.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
