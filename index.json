@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-41-contacts-list.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.41.0 — A clearer contacts list",
+      "date": "2026-10-10",
+      "type": "release",
+      "social": false,
+      "summary": "The Contacts list is now grouped by who sees each contact, with Company, Phone and Last email columns and a Sort menu. After you upload contacts, a summary stays at the top with Undo upload in case the file was wrong. Missing a name lists contacts without a name, and you can now tick contacts to email them, set their relationship, add a tag or delete your own. Add contact sits next to Upload conta…",
+      "body": "The **Contacts** list is now grouped by who sees each contact, with **Company**, **Phone** and **Last email** columns and a **Sort** menu. After you upload contacts, a summary stays at the top with **Undo upload** in case the file was wrong. **Missing a name** lists contacts without a name, and you can now tick contacts to email them, set their relationship, add a tag or delete your own. **Add contact** sits next to **Upload contacts**, and on a phone there is a large **Add contact** button. More: https://sendhaste.com/en/help/contacts",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-41-contacts-list.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-10-sendhaste-2-41-contacts-list.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-10-sendhaste-2-40-upload-contacts.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
