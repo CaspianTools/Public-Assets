@@ -119,6 +119,20 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-11-sendhaste-2-62-sending-addresses-per-domain.md"
     },
     {
+      "id": "caspian-office/release-notes/1.231/1.231.2.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "One update, not two: Update now refreshes the site and the Workspace together, and no longer throws away downloaded AI models.",
+      "date": "2026-10-11",
+      "type": "release",
+      "version": "1.231.2",
+      "social": true,
+      "summary": "Pressing Update now used to fix the page you were on and leave the other one asking again. Now one press updates both the site and the installed Workspace, and your downloaded AI models stay put.",
+      "body": "![](https://caspianoffice.io/release/v1.231.2.png)\n\n# Caspian Office 1.231.2: One update, not two\n\nPressing Update now used to fix the page you were on and leave the other one asking again. Now one press updates both the site and the installed Workspace, and your downloaded AI models stay put.\n\n- **Fixed — One update for both surfaces.** The site and the Workspace each have their own offline worker; Update now refreshes both at once and waits for them to finish before reloading.\n- **Fixed — AI models survive an update.** The background remover's and text-to-speech models (tens of megabytes) are no longer deleted by an update.\n\nInstall once, update once, work offline.\n\n🔗 Live: https://caspianoffice.io/app/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Fixed\n- **Update now updates the site and the Workspace together.** The site and the installable Workspace each run their own service worker with its own cache. Update now refreshed only the one for the page you were on, so opening the other surface found its worker still old and the bell asked you to update a second time. It now refreshes every worker on the origin and waits for each new one to finish installing before it reloads.\n- **Downloaded AI models survive an update.** The cache purge that precedes the reload deleted every cache, including the background remover's and text-to-speech models (tens of megabytes), which then had to be downloaded again. It now clears only the two app-shell caches, and does so before the new worker installs rather than after, so a freshly filled cache is never wiped.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.231/1.231.2.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.231/1.231.2.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.231/1.231.1.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
