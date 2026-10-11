@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-11-sendhaste-2-62-sending-addresses-per-domain.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.62.0 — Address list fixed for API keys made for one domain",
+      "date": "2026-10-11",
+      "type": "release",
+      "social": false,
+      "summary": "The sending API's list of From addresses now works for API keys made for one domain: it shows every mailbox on that domain, where before it came back empty. It also names the domains a key may send from, so your apps can tell people where to add a sending address. Each From address needs a mailbox of its own: for an address that only sends, like noreply@, add a mailbox for it in Settings → Domains…",
+      "body": "The sending API's list of From addresses now works for API keys made for one domain: it shows every mailbox on that domain, where before it came back empty. It also names the domains a key may send from, so your apps can tell people where to add a sending address. Each From address needs a mailbox of its own: for an address that only sends, like noreply@, add a mailbox for it in Settings → Domains. Developers will find the details in Help, under Sending API: https://sendhaste.com/en/help/api",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-11-sendhaste-2-62-sending-addresses-per-domain.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-11-sendhaste-2-62-sending-addresses-per-domain.md"
+    },
+    {
       "id": "zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md",
       "folder": "zekio",
       "product": "Zekio",
