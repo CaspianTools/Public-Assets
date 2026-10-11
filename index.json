@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-11-sendhaste-2-65-templates-filter-share.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.65.0 — Easier filtering and sharing in Templates",
+      "date": "2026-10-11",
+      "type": "release",
+      "social": false,
+      "summary": "In Templates, the domain filter is now a dropdown next to List and Cards: type to find a domain, tick as many as you like, and click Apply. Sharing is simpler too: choose Share in a template's ⋮ menu and pick who may use it in one panel. The title, the filter and the view switch now stay at the top while you scroll a long list. Read more in Help, under Templates and group emails: https://sendhaste…",
+      "body": "In Templates, the domain filter is now a dropdown next to List and Cards: type to find a domain, tick as many as you like, and click Apply. Sharing is simpler too: choose Share in a template's ⋮ menu and pick who may use it in one panel. The title, the filter and the view switch now stay at the top while you scroll a long list. Read more in Help, under Templates and group emails: https://sendhaste.com/en/help/templates-groups",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-11-sendhaste-2-65-templates-filter-share.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-11-sendhaste-2-65-templates-filter-share.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-11-sendhaste-2-64-templates-list.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
