@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-11-sendhaste-2-66-phone-header-menu.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.66.0 — A cleaner header and menu on phones",
+      "date": "2026-10-11",
+      "type": "release",
+      "social": false,
+      "summary": "On a phone, the top of the screen now shows the folder and the mailbox you're in: tap it to switch mailbox. Search, the + button and your picture always fit on one line. The ☰ menu floats over the page with your mailbox at the top and Mail, Contacts, Templates and Settings along its bottom, and Compose sits at the bottom right of the mail list. Notifications and Theme are in the menu under your pi…",
+      "body": "On a phone, the top of the screen now shows the folder and the mailbox you're in: tap it to switch mailbox. Search, the + button and your picture always fit on one line. The ☰ menu floats over the page with your mailbox at the top and Mail, Contacts, Templates and Settings along its bottom, and Compose sits at the bottom right of the mail list. Notifications and Theme are in the menu under your picture, with a red dot when something is new. Read more in Help: https://sendhaste.com/en/help/getting-started",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-11-sendhaste-2-66-phone-header-menu.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-11-sendhaste-2-66-phone-header-menu.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-11-sendhaste-2-65-templates-filter-share.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
