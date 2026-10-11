@@ -119,6 +119,20 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-11-sendhaste-2-62-sending-addresses-per-domain.md"
     },
     {
+      "id": "caspian-office/release-notes/1.231/1.231.0.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Mobile view tester gets a settings sidebar: devices picked from grouped dropdowns, every control in one column beside a full-height stage, and a camera button that saves any device screen as a PNG.",
+      "date": "2026-10-11",
+      "type": "release",
+      "version": "1.231.0",
+      "social": true,
+      "summary": "The Mobile view tester has a new layout: every control lives in one settings column, the stage takes the full height of the page, and each device frame can be saved as a PNG screenshot.",
+      "body": "![](https://caspianoffice.io/release/v1.231.0.png)\n\n# Caspian Office 1.231.0: Mobile view tester gets a sidebar and screenshots\n\nThe Mobile view tester has a new layout: every control lives in one settings column, the stage takes the full height of the page, and each device frame can be saved as a PNG screenshot.\n\n- **New — Screenshot any device screen.** A camera button on every frame saves the screen as a PNG at the device's exact size, bezel and notch included. Shoot all saves one image per frame in a single zip.\n- **Improved — One settings column.** Source, devices, custom size and view sit in a sidebar beside the stage. Devices are picked from grouped dropdowns for phones, tablets and laptops & desktops, with chips showing what is on stage.\n- **Improved — Cleaner tool, fuller guide.** The notes about sites that refuse to be embedded moved into the tool's guide and FAQ, in all 12 languages.\n\nPreview a page at real device widths and take the screenshots for your design review, all in your browser.\n\n🔗 Live: https://caspianoffice.io/tool/mobile-view-tester/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Added\n- **Save a screenshot of any device screen.** Every frame in the Mobile view tester now has a camera button that saves the screen as a PNG at the device's exact CSS size — bezel and notch included when the device frame is on — and **Shoot all** saves one image per frame in a single zip. Screenshots work for pasted HTML and HTML files; a page loaded by URL belongs to another site, which the browser keeps hidden from the page, so the camera says so instead of saving a blank image.\n\n### Changed\n- **All controls in one settings column.** The three stacked control cards are gone. Source, devices, custom size and view now sit in a sidebar beside the stage, which takes the full height of the pane. Devices are picked from three grouped dropdowns (phones, tablets, laptops & desktops) with the chosen ones listed as chips underneath, and the stage header reads the orientation, the frame count and the fit scale.\n- **Explanations moved to the tool's guide.** The note about sites that refuse to be embedded (X-Frame-Options / CSP) and the QR card left the tool itself; the guide's \"About this tool\" and FAQ carry them now, in all 12 languages.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.231/1.231.0.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.231/1.231.0.md"
+    },
+    {
       "id": "zekio/updates/2026/2026-10-10-zekio-2-25-yenilikler-artik-uygulamada.md",
       "folder": "zekio",
       "product": "Zekio",
