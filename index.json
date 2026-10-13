@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-13-sendhaste-2-72-sending-limits-you-control.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.72.0 — Set each mailbox's daily limit, and see refused and held emails",
+      "date": "2026-10-13",
+      "type": "release",
+      "social": false,
+      "summary": "An Org Super Admin can now choose how many people each mailbox may email a day: open Settings → Domains → the domain → Sending limits and set People each mailbox may email a day, up to the domain's own daily limit (which is also where it starts). The domain's page now shows Refused today and Held for tomorrow next to Emails today. Settings → Usage adds Refused and Held columns per mailbox and per…",
+      "body": "An Org Super Admin can now choose how many people each mailbox may email a day: open Settings → Domains → the domain → Sending limits and set People each mailbox may email a day, up to the domain's own daily limit (which is also where it starts). The domain's page now shows Refused today and Held for tomorrow next to Emails today. Settings → Usage adds Refused and Held columns per mailbox and per day, and Settings → Activity lists every email a daily limit stopped or held. For the sending API, an email that went out is always answered 200 or 202, even when the answer was slow, and an email stopped by a daily limit is always answered 429 daily_limit with Retry-After, so your app can queue it and try again. Details are in Help, under Sending API: https://sendhaste.com/en/help/api",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-13-sendhaste-2-72-sending-limits-you-control.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-13-sendhaste-2-72-sending-limits-you-control.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.231/1.231.3.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
