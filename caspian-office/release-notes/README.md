@@ -4,6 +4,7 @@ One file per release, grouped by minor version, newest first. The full history i
 
 | Version | Date | Headline |
 |---|---|---|
+| [1.231.3](1.231/1.231.3.md) | 2026-10-13 | Plain-http addresses explained |
 | [1.231.2](1.231/1.231.2.md) | 2026-10-11 | One update, not two |
 | [1.231.1](1.231/1.231.1.md) | 2026-10-11 | A way around sites that refuse to be framed |
 | [1.231.0](1.231/1.231.0.md) | 2026-10-11 | Mobile view tester gets a sidebar and screenshots |
