@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-15-sendhaste-2-74-shorter-new-email.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.74.0 — A shorter New email window",
+      "date": "2026-10-15",
+      "type": "release",
+      "social": false,
+      "summary": "The New email window is now shorter: Cc, Bcc and Reply-to stay hidden until you need them. Click Cc, Bcc or Reply-to at the end of the To line to add that line, and click the × at its end to hide it again. A line that already has an address, such as Cc when you reply to all, is always shown. Details are in Help, under Writing and sending: https://sendhaste.com/en/help/writing",
+      "body": "The New email window is now shorter: Cc, Bcc and Reply-to stay hidden until you need them. Click Cc, Bcc or Reply-to at the end of the To line to add that line, and click the × at its end to hide it again. A line that already has an address, such as Cc when you reply to all, is always shown.\nDetails are in Help, under Writing and sending: https://sendhaste.com/en/help/writing",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-15-sendhaste-2-74-shorter-new-email.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-15-sendhaste-2-74-shorter-new-email.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-13-sendhaste-2-73-held-emails-go-after-midnight.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
