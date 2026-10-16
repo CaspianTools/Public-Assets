@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-16-sendhaste-2-76-reply-under-the-email.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.76.0 — Reply right under the email",
+      "date": "2026-10-16",
+      "type": "release",
+      "social": false,
+      "summary": "Reply, Reply all and Forward now open right under the email, in the same place you're reading it, including the reading pane. You can read the email while you write, and Discard changes (the bin) closes the reply again. While you write, the Send button stays at the bottom of the screen, in the New email window too. Details are in Help, under Writing and sending: https://sendhaste.com/en/help/writi…",
+      "body": "Reply, Reply all and Forward now open right under the email, in the same place you're reading it, including the reading pane. You can read the email while you write, and Discard changes (the bin) closes the reply again.\nWhile you write, the Send button stays at the bottom of the screen, in the New email window too.\nDetails are in Help, under Writing and sending: https://sendhaste.com/en/help/writing",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-16-sendhaste-2-76-reply-under-the-email.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-16-sendhaste-2-76-reply-under-the-email.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-16-sendhaste-2-75-quicker-send-later.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
