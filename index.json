@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-16-sendhaste-2-75-quicker-send-later.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.75.0 — Quicker Send later and tidier email buttons",
+      "date": "2026-10-16",
+      "type": "release",
+      "social": false,
+      "summary": "The buttons under a new email take less room now. Send later is the arrow next to Send, and it has one-click Tomorrow morning and Monday morning, both at 8:00 in your time zone. You can still pick any other day and time there. Attach, Insert and Signature are small icons next to Send, and Save draft and Discard changes (the bin) are on the right. Point at a button to see its name. Details are in H…",
+      "body": "The buttons under a new email take less room now. Send later is the arrow next to Send, and it has one-click Tomorrow morning and Monday morning, both at 8:00 in your time zone. You can still pick any other day and time there.\nAttach, Insert and Signature are small icons next to Send, and Save draft and Discard changes (the bin) are on the right. Point at a button to see its name.\nDetails are in Help, under Writing and sending: https://sendhaste.com/en/help/writing",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-16-sendhaste-2-75-quicker-send-later.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-16-sendhaste-2-75-quicker-send-later.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-15-sendhaste-2-74-shorter-new-email.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
