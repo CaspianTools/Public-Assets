@@ -2,6 +2,20 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-office/release-notes/1.232/1.232.0.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Every confirm, rename and error box now uses the app's own themed, translated dialog instead of the browser's pop-up, across more than 50 tools.",
+      "date": "2026-10-20",
+      "type": "release",
+      "version": "1.232.0",
+      "social": true,
+      "summary": "The browser's grey pop-ups are gone. Every \"Are you sure?\", rename box and error message in Caspian Office now opens the app's own dialog, which matches your theme and speaks your language.",
+      "body": "![](https://caspianoffice.io/release/v1.232.0.png)\n\n# Caspian Office 1.232.0: One dialog everywhere\n\nThe browser's grey pop-ups are gone. Every \"Are you sure?\", rename box and error message in Caspian Office now opens the app's own dialog, which matches your theme and speaks your language.\n\n- **Improved — No more browser pop-ups.** More than 50 tools now share one dialog, from the Resume builder and Invoice generator to the PDF tools' Clear all. It follows light or dark mode, works over full screen, and colours destructive actions red with a clear verb such as Reset or Delete.\n- **Fixed — The Resume builder's custom-section question names its real buttons.** It now asks Entries or Text, in all 12 languages.\n\nOne consistent, private toolkit that runs entirely in your browser.\n\n🔗 Live: https://caspianoffice.io\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Changed\n- **No more browser pop-ups.** Every \"Are you sure?\", rename box and error message across more than 50 tools (the Resume builder, Invoice generator, Text editor, Whiteboard, the PDF tools' Clear all and the Updates page's reload, among others) now opens the app's own dialog. It follows the light or dark theme, speaks your language, works over full screen, and colours destructive actions red with a clear verb such as Reset or Delete. Enter confirms and Escape cancels, as before.\n\n### Fixed\n- **The Resume builder's custom-section question names its real buttons.** It asked you to press OK or Cancel; the dialog now reads Entries or Text, and the question says the same in all 12 languages. Inserting a link in the Text editor keeps your selected text.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.232/1.232.0.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.232/1.232.0.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-17-sendhaste-2-77-ai-assistant-and-safer-sign-in.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
