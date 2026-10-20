@@ -15,6 +15,20 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-20-sendhaste-2-78-richer-formatting.md"
     },
     {
+      "id": "caspian-office/release-notes/1.232/1.232.1.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Five more tools speak your language inside: Form builder, UI builder, TOP-SET evidence board, Tripod Beta and Screenshot, with help guides for nine tools in all 12 languages.",
+      "date": "2026-10-20",
+      "type": "release",
+      "version": "1.232.1",
+      "social": true,
+      "summary": "The last five tools whose screens were still in English now speak all 12 of Caspian Office's languages, and nine more help guides are translated to match.",
+      "body": "![](https://caspianoffice.io/release/v1.232.1.png)\n\n# Caspian Office 1.232.1: Five more tools translated inside\n\nThe last five tools whose screens were still in English now speak all 12 of Caspian Office's languages, and nine more help guides are translated to match.\n\n- **Improved — Every tool now speaks your language inside.** Form builder, UI builder, TOP-SET evidence board, Tripod Beta and Screenshot are translated into Arabic, Azerbaijani, Chinese, French, German, Indonesian, Japanese, Portuguese, Russian, Spanish and Turkish.\n- **Improved — Nine more help guides translated.** The guides for those five tools, plus PDF to Word, PDF to Excel, PDF to PowerPoint and the EXIF viewer, use the same button names as the tools themselves.\n\n190 private, offline tools, now fully in your language.\n\n🔗 Live: https://caspianoffice.io\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Changed\n- **Every tool now speaks your language inside.** The last five tools whose screens were still in English (the Form builder, UI builder, TOP-SET evidence board, Tripod Beta and Screenshot) are translated into all 11 other languages. Screenshot also gets its translated name and subtitle in the menu and search.\n- **Nine more help guides translated.** The \"About this tool\" guide for those five tools, plus PDF to Word, PDF to Excel, PDF to PowerPoint and the EXIF viewer, now reads in all 12 languages, using the same button names as the tool itself.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.232/1.232.1.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.232/1.232.1.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.232/1.232.0.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
