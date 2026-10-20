@@ -4,6 +4,7 @@ One file per release, grouped by minor version, newest first. The full history i
 
 | Version | Date | Headline |
 |---|---|---|
+| [1.233.0](1.233/1.233.0.md) | 2026-10-20 | Salary, code, fractions and fuel |
 | [1.232.1](1.232/1.232.1.md) | 2026-10-20 | Five more tools translated inside |
 | [1.232.0](1.232/1.232.0.md) | 2026-10-20 | One dialog everywhere |
 | [1.231.3](1.231/1.231.3.md) | 2026-10-13 | Plain-http addresses explained |
