@@ -15,6 +15,20 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-20-sendhaste-2-78-richer-formatting.md"
     },
     {
+      "id": "caspian-office/release-notes/1.233/1.233.0.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Four new tools: a salary calculator with your own deductions and tax bands, a code beautifier and minifier, an exact fraction and ratio calculator, and a fuel cost calculator.",
+      "date": "2026-10-20",
+      "type": "release",
+      "version": "1.233.0",
+      "social": true,
+      "summary": "Four new tools land today, each translated into all 12 languages and, like everything else, running entirely in your browser.",
+      "body": "![](https://caspianoffice.io/release/v1.233.0.png)\n\n# Caspian Office 1.233.0: Salary, code, fractions and fuel\n\nFour new tools land today, each translated into all 12 languages and, like everything else, running entirely in your browser.\n\n- **New — Salary calculator.** Gross to take-home pay per hour, day, week, month and year, or back from the net you want. You set the deductions and tax bands; no out-of-date tax tables.\n- **New — Code beautifier & minifier.** Tidy or shrink HTML, CSS, JavaScript and JSON, with the size saved and clear error positions.\n- **New — Fraction & ratio calculator.** Exact fraction maths with step-by-step working, repeating decimals, ratios and proportions.\n- **New — Fuel cost calculator.** Trip cost in L/100 km, km/L or MPG, split between passengers, plus range and commute costs.\n\n194 private, offline tools, free and in your language.\n\n🔗 Live: https://caspianoffice.io\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Added\n- **Salary calculator.** Turn gross pay into take-home pay per hour, day, week, fortnight, month and year, or work back from the net you want to the gross you need. You enter the deductions (percentages or fixed amounts, before or after tax) and, if you like, your own tax bands with a tax-free allowance. It ships no country's tax tables, because those change every year; the results follow the rates you enter. https://caspianoffice.io/tool/salary-calculator/\n- **Code beautifier & minifier.** Paste or open HTML, CSS, JavaScript or JSON and beautify it (indent, line wrap, blank lines) or minify it, with the size saved, inline errors with line and column, Copy and Download. Powered by js-beautify and terser, loaded only when you use them. https://caspianoffice.io/tool/code-beautifier/\n- **Fraction & ratio calculator.** Add, subtract, multiply and divide fractions, mixed numbers and decimals with exact whole-number arithmetic and step-by-step working; convert between fractions, decimals (repeating ones included) and percentages; simplify ratios, split a total and solve proportions. https://caspianoffice.io/tool/fraction-calculator/\n- **Fuel cost calculator.** Trip cost in L/100 km, km/L or US/UK MPG, split between passengers; how far a budget or a full tank takes you; and what a daily commute costs per week, month and year. https://caspianoffice.io/tool/fuel-cost-calculator/\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.233/1.233.0.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.233/1.233.0.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.232/1.232.1.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
