@@ -4,6 +4,7 @@ One file per release, grouped by minor version, newest first. The full history i
 
 | Version | Date | Headline |
 |---|---|---|
+| [1.232.0](1.232/1.232.0.md) | 2026-10-20 | One dialog everywhere |
 | [1.231.3](1.231/1.231.3.md) | 2026-10-13 | Plain-http addresses explained |
 | [1.231.2](1.231/1.231.2.md) | 2026-10-11 | One update, not two |
 | [1.231.1](1.231/1.231.1.md) | 2026-10-11 | A way around sites that refuse to be framed |
