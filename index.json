@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-21-sendhaste-2-82-app-passwords.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.82.0 — App passwords for mail apps",
+      "date": "2026-10-21",
+      "type": "release",
+      "social": true,
+      "summary": "You can now read your mailbox in Outlook, Apple Mail or a phone's mail app with an app password of your own, instead of sharing one password with everyone who reads it. Make one in Settings, then Sign-in and security, then App passwords (or from Quick add, the + at the top). It's shown once; the list shows when each one was last used, and Delete stops that one app at once without touching anyone e…",
+      "body": "You can now read your mailbox in Outlook, Apple Mail or a phone's mail app with an app password of your own, instead of sharing one password with everyone who reads it.\nMake one in Settings, then Sign-in and security, then App passwords (or from Quick add, the + at the top). It's shown once; the list shows when each one was last used, and Delete stops that one app at once without touching anyone else's.\nSomeone who no longer has the mailbox loses their app passwords for it, and a mailbox's New password now keeps everyone's mail apps working unless you choose to stop them too.\nStep by step: https://sendhaste.com/en/help/mail-apps",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-21-sendhaste-2-82-app-passwords.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-21-sendhaste-2-82-app-passwords.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-21-sendhaste-2-81-signatures-whole-width.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
