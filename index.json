@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-21-sendhaste-2-80-signatures-per-address.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.80.0 — A signature for every address",
+      "date": "2026-10-21",
+      "type": "release",
+      "social": true,
+      "summary": "Every email address you send from now has its own signatures. Open Your profile, then Signatures, pick an address on the left, and its signatures show as cards. Main is there for every address. Make a new one from the + at the top (Quick add, then Signature): pick the address, a name and one of the four layouts (Classic, Modern, Compact or Minimal). The preview changes as you type. Each signature…",
+      "body": "Every email address you send from now has its own signatures. Open Your profile, then Signatures, pick an address on the left, and its signatures show as cards. Main is there for every address.\nMake a new one from the + at the top (Quick add, then Signature): pick the address, a name and one of the four layouts (Classic, Modern, Compact or Minimal). The preview changes as you type.\nEach signature has its own layout, colour and lines. Switch any line off, or add a sign-off, X, WhatsApp, a button with the link it opens, or a legal note. Copy a finished signature to your other addresses in one click, and choose which one new emails and replies start with.\nYour existing signatures carry over as they were.\nDetails are in Help, under Writing and sending: https://sendhaste.com/en/help/writing",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-21-sendhaste-2-80-signatures-per-address.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-21-sendhaste-2-80-signatures-per-address.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-20-sendhaste-2-79-formatting-button.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
