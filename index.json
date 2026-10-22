@@ -41,6 +41,20 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-22-sendhaste-2-83-1-security-fix.md"
     },
     {
+      "id": "caspian-office/release-notes/1.235/1.235.1.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Installing a single tool now gives it its own app and icon, even when the Workspace is already installed.",
+      "date": "2026-10-22",
+      "type": "release",
+      "version": "1.235.1",
+      "social": true,
+      "summary": "If you had the Workspace installed, installing a single tool such as Sudoku gave you no separate app or icon. That is fixed on desktop and on phones.",
+      "body": "![](https://caspianoffice.io/release/v1.235.1.png)\n\n# Caspian Office 1.235.1: A tool installs as its own app, even next to the Workspace\n\nIf you had the Workspace installed, installing a single tool such as Sudoku gave you no separate app or icon. That is fixed on desktop and on phones.\n\n- **Fixed — Single-tool installs.** Install app on a tool's page now adds that tool with its own name, icon and window, alongside the Workspace.\n- **Improved — Older shortcuts keep working.** Single-tool shortcuts made before this release still open their tool as its own app.\n\nEvery tool as its own offline app, or all of them together in one.\n\n🔗 Live: https://caspianoffice.io/tool/sudoku/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Fixed\n- **Installing a single tool made no app or icon if the Workspace was already installed.** The Workspace claimed every address on the site, so the browser treated each tool as part of it and would not add the tool on its own, on desktop or on phones. The Workspace now covers only its own pages, and each tool's app lives at its own address outside them, so **Install app** on a tool's page adds that tool with its own name, icon and window.\n\n### Changed\n- **Older single-tool installs keep working.** Shortcuts made for one tool before this release still open that tool as its own app.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.235/1.235.1.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.235/1.235.1.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.235/1.235.0.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
