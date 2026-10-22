@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-23-sendhaste-2-84-1-questions-in-page.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.84.1 — Questions asked inside the page",
+      "date": "2026-10-23",
+      "type": "release",
+      "social": false,
+      "summary": "Before you delete, remove or undo something, SendHaste now asks inside the page instead of in a browser pop-up. The question comes with Cancel and a button that says what it will do, such as Delete, so it's clear what happens when you click it.",
+      "body": "Before you delete, remove or undo something, SendHaste now asks inside the page instead of in a browser pop-up.\nThe question comes with Cancel and a button that says what it will do, such as Delete, so it's clear what happens when you click it.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-23-sendhaste-2-84-1-questions-in-page.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-23-sendhaste-2-84-1-questions-in-page.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-22-sendhaste-2-84-contacts-quick-edit.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
