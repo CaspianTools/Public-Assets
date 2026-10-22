@@ -28,6 +28,20 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-22-sendhaste-2-83-1-security-fix.md"
     },
     {
+      "id": "caspian-office/release-notes/1.234/1.234.0.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Install any single tool as its own app: every tool gets an install button, its own icon and window, and works fully offline, OCR included.",
+      "date": "2026-10-22",
+      "type": "release",
+      "version": "1.234.0",
+      "social": true,
+      "summary": "Need just one tool? Each of the 194 tools now installs on its own, with its own icon and window, and works with no internet from the first launch.",
+      "body": "![](https://caspianoffice.io/release/v1.234.0.png)\n\n# Caspian Office 1.234.0: Install any single tool as its own app\n\nNeed just one tool? Each of the 194 tools now installs on its own, with its own icon and window, and works with no internet from the first launch.\n\n- **New — Install this tool.** A new button next to every tool's heart opens that tool's own page, where Install app adds just that tool to your desktop or phone.\n- **New — Fully offline from day one.** Installing a tool stores everything it needs. The OCR tool keeps its text-recognition engine too, so it reads images with no network.\n- **New — A focused window.** An installed tool opens on the tool alone. Its guide is one click away, and the full Workspace one more.\n- **Improved — Old single-tool shortcuts work again.** Shortcuts made before v1.222 open their tool as its own app once more.\n\nYour files never leave your device, in one app or in 194.\n\n🔗 Live: https://caspianoffice.io/app/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Added\n- **Every tool installs on its own.** Next to a tool's heart there is now an install button (in the Workspace it sits in the tool's toolbar). It opens the tool's own page, where **Install app** puts just that tool on your desktop or phone, with its own icon, name and window. All 194 tools work this way, alongside the full Workspace.\n- **Fully offline from the first launch.** Installing a tool stores everything it needs, so it opens and works with no internet. The OCR tool also stores its text-recognition engine and language data (about 33 MB) at install time. Installed tools and the Workspace share one store, so a second app downloads almost nothing, and your saved work is the same in all of them.\n- **A focused window.** An installed tool opens on the tool alone: no sidebar, with its guide one click away. The grid button in the top bar opens the Workspace for every other tool.\n\n### Changed\n- **Single-tool shortcuts from before v1.222 come back to life.** Their addresses belong to the per-tool apps again, so an old shortcut opens its tool as an app of its own once more, instead of the Workspace.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.234/1.234.0.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.234/1.234.0.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-21-sendhaste-2-82-app-passwords.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
