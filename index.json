@@ -28,6 +28,20 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-22-sendhaste-2-83-1-security-fix.md"
     },
     {
+      "id": "caspian-office/release-notes/1.235/1.235.0.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Sudoku opens the new Games section: four difficulties, every puzzle made on your device with exactly one solution, and hints that explain the technique.",
+      "date": "2026-10-22",
+      "type": "release",
+      "version": "1.235.0",
+      "social": true,
+      "summary": "Caspian Office has its first game: classic 9×9 Sudoku that runs entirely in your browser, works offline and installs as its own app.",
+      "body": "![](https://caspianoffice.io/release/v1.235.0.png)\n\n# Caspian Office 1.235.0: Sudoku opens the Games section\n\nCaspian Office has its first game: classic 9×9 Sudoku that runs entirely in your browser, works offline and installs as its own app.\n\n- **New — Sudoku in four difficulties.** Every puzzle is made on your device with exactly one solution. Its level comes from the techniques it needs, not just the number of clues.\n- **New — Hints that teach.** A hint fills in the next cell you could find and names the technique behind it. If one of your digits is wrong, it tells you that first.\n- **New — Play your way.** Pencil notes, keyboard and touch, undo, conflicts shown as you type or only on Check, and an optional timer.\n- **New — A Games section.** Logic puzzles only: no chance, no cards, no stakes, no sound.\n\nA calm, private puzzle with no ads and no accounts, in 12 languages.\n\n🔗 Live: https://caspianoffice.io/tool/sudoku/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Added\n- **Sudoku.** Classic 9×9 Sudoku in four difficulties: Easy, Medium, Hard and Expert. Every puzzle is made on your device and checked to have exactly one solution, and its level comes from the solving techniques it needs (from simple singles up to X-Wing, XY-Wing and Swordfish), not just from how many clues it shows. https://caspianoffice.io/tool/sudoku/\n- **Hints that teach.** A hint fills in the next cell a person could find and names the technique that finds it; if one of your digits is wrong, it points that out first. Check strikes through any digit that doesn't fit the solution.\n- **Play your way.** Pencil notes (N, or Shift with a digit), keyboard and touch, undo and redo, conflicts shown as you type or only when you press Check, and an optional timer that is off by default and pauses when you leave. No sound, no scores, no accounts; your game is saved on your device, in all 12 languages, and installs as its own app like every tool.\n- **A Games section.** Logic puzzles get their own place in the menu, the Workspace sidebar and the overview. Like everything in Caspian Office, it keeps to the project's values: no chance, no cards, no stakes.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.235/1.235.0.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.235/1.235.0.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.234/1.234.0.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
