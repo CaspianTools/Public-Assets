@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-search-options.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-1-compose-keeps-your-text.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.87.1 — Compose keeps what you wrote",
+      "date": "2026-10-25",
+      "type": "fix",
+      "social": false,
+      "summary": "Pressing Escape, or closing the Compose window, now asks \"Discard this email?\" when you've written something, so a stray key no longer loses your text. New mail arriving while you write no longer refreshes the page behind the Compose window and empties it.",
+      "body": "Pressing Escape, or closing the Compose window, now asks \"Discard this email?\" when you've written something, so a stray key no longer loses your text.\nNew mail arriving while you write no longer refreshes the page behind the Compose window and empties it.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-1-compose-keeps-your-text.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-1-compose-keeps-your-text.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-25-sendhaste-2-86-test-send.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
