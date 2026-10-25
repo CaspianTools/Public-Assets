@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-search-options.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.87.0 — Search options in the search bar",
+      "date": "2026-10-25",
+      "type": "release",
+      "social": false,
+      "summary": "Search options, the sliders button, now sits at the right end of the search bar at the top of your mail, and its panel opens right under the bar. The words you type in the search bar are searched together with the options, so you can combine them in one search, for example words plus From, a date range or Has attachments. On a phone, tap the search icon and the sliders appear in the search bar. Mo…",
+      "body": "Search options, the sliders button, now sits at the right end of the search bar at the top of your mail, and its panel opens right under the bar.\nThe words you type in the search bar are searched together with the options, so you can combine them in one search, for example words plus From, a date range or Has attachments.\nOn a phone, tap the search icon and the sliders appear in the search bar.\nMore in the help center: https://sendhaste.com/en/help/inbox",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-search-options.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-search-options.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-25-sendhaste-2-86-test-send.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
