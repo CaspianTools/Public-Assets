@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-search-options.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-2-cancel-first.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.87.2 — Cancel comes first when discarding an email",
+      "date": "2026-10-25",
+      "type": "fix",
+      "social": false,
+      "summary": "When Compose asks \"Discard this email?\", Cancel is now the selected button. So pressing Escape and then Enter by habit keeps what you wrote instead of throwing it away.",
+      "body": "When Compose asks \"Discard this email?\", Cancel is now the selected button.\nSo pressing Escape and then Enter by habit keeps what you wrote instead of throwing it away.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-2-cancel-first.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-2-cancel-first.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-25-sendhaste-2-87-1-compose-keeps-your-text.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
