@@ -2,6 +2,32 @@
   "version": 1,
   "items": [
     {
+      "id": "caspiantools/updates/2026/2026-11-02-the-caspian-fish-is-now-on-every-page.md",
+      "folder": "caspiantools",
+      "product": "Caspian Tools Workspace",
+      "title": "The Caspian fish is now on every page",
+      "date": "2026-11-02",
+      "type": "fix",
+      "social": false,
+      "summary": "The purple fish you know from the browser tab now appears across the site and the Workspace: the sign-in page, the site header and footer, the mobile menu, and the sidebar in the app. Until now those places showed a generic placeholder, and the Workspace tab icon was a two-letter monogram; everything uses the same mark. It follows your light or dark theme, so it stays readable either way.",
+      "body": "The purple fish you know from the browser tab now appears across the site and the Workspace: the sign-in page, the site header and footer, the mobile menu, and the sidebar in the app.\nUntil now those places showed a generic placeholder, and the Workspace tab icon was a two-letter monogram; everything uses the same mark.\nIt follows your light or dark theme, so it stays readable either way.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspiantools/updates/2026/2026-11-02-the-caspian-fish-is-now-on-every-page.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspiantools/updates/2026/2026-11-02-the-caspian-fish-is-now-on-every-page.md"
+    },
+    {
+      "id": "caspiantools/updates/2026/2026-11-02-security-update-tighter-permissions-and-patched-dependencies.md",
+      "folder": "caspiantools",
+      "product": "Caspian Tools Workspace",
+      "title": "Security update: tighter permissions and patched dependencies",
+      "date": "2026-11-02",
+      "type": "notice",
+      "social": false,
+      "summary": "We ran a security pass on the Workspace and shipped the results today. Every record now has to carry the name of the person who actually changed it, so one team member can no longer make an edit look like it came from someone else, and GitHub issues are only ever opened under the account that really made the change. Workspace owners can no longer change their own plan or seat count outside billing…",
+      "body": "We ran a security pass on the Workspace and shipped the results today.\nEvery record now has to carry the name of the person who actually changed it, so one team member can no longer make an edit look like it came from someone else, and GitHub issues are only ever opened under the account that really made the change.\nWorkspace owners can no longer change their own plan or seat count outside billing, and project membership can only be widened by the project owner and only to people already in the workspace.\nWe also updated the framework and libraries the app is built on to versions with the latest security fixes.\nNothing changes in how you use the Workspace; if something that worked yesterday is refused today, tell us through Support.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspiantools/updates/2026/2026-11-02-security-update-tighter-permissions-and-patched-dependencies.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspiantools/updates/2026/2026-11-02-security-update-tighter-permissions-and-patched-dependencies.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-10-31-sendhaste-2-91-fold-the-conversation.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
