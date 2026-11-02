@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspiantools/updates/2026/2026-11-02-vs-code-pairings-are-now-limited-to-one-workspace-and-180-days.md",
+      "folder": "caspiantools",
+      "product": "Caspian Tools Workspace",
+      "title": "VS Code pairings are now limited to one workspace and 180 days",
+      "date": "2026-11-02",
+      "type": "notice",
+      "social": false,
+      "summary": "When you connect the Caspian Taskmaster or Caspian Notes extension, the connection now opens only the workspace you picked, and only your tasks and notes there. It also expires 180 days after you paired; the extension then shows a Reconnect button and you pair again in the browser. Connections made before today keep working until 1 February 2027. Update to Caspian Taskmaster 1.31.4 or Caspian Note…",
+      "body": "When you connect the Caspian Taskmaster or Caspian Notes extension, the connection now opens only the workspace you picked, and only your tasks and notes there.\nIt also expires 180 days after you paired; the extension then shows a Reconnect button and you pair again in the browser.\nConnections made before today keep working until 1 February 2027.\nUpdate to Caspian Taskmaster 1.31.4 or Caspian Notes 1.4.9 to get the Reconnect prompt; older versions keep working but only report the problem in their log.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspiantools/updates/2026/2026-11-02-vs-code-pairings-are-now-limited-to-one-workspace-and-180-days.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspiantools/updates/2026/2026-11-02-vs-code-pairings-are-now-limited-to-one-workspace-and-180-days.md"
+    },
+    {
       "id": "caspiantools/updates/2026/2026-11-02-the-caspian-fish-is-now-on-every-page.md",
       "folder": "caspiantools",
       "product": "Caspian Tools Workspace",
@@ -26,6 +39,47 @@
       "body": "We ran a security pass on the Workspace and shipped the results today.\nEvery record now has to carry the name of the person who actually changed it, so one team member can no longer make an edit look like it came from someone else, and GitHub issues are only ever opened under the account that really made the change.\nWorkspace owners can no longer change their own plan or seat count outside billing, and project membership can only be widened by the project owner and only to people already in the workspace.\nWe also updated the framework and libraries the app is built on to versions with the latest security fixes.\nNothing changes in how you use the Workspace; if something that worked yesterday is refused today, tell us through Support.",
       "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspiantools/updates/2026/2026-11-02-security-update-tighter-permissions-and-patched-dependencies.md",
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspiantools/updates/2026/2026-11-02-security-update-tighter-permissions-and-patched-dependencies.md"
+    },
+    {
+      "id": "caspiantools/updates/2026/2026-11-02-confirm-your-email-address-before-using-the-workspace.md",
+      "folder": "caspiantools",
+      "product": "Caspian Tools Workspace",
+      "title": "Confirm your email address before using the Workspace",
+      "date": "2026-11-02",
+      "type": "feature",
+      "social": false,
+      "summary": "If you sign up with an email address and a password, you now get a confirmation link in your inbox, and the Workspace waits until you have clicked it. If you already have a password account that was never confirmed, you will see the same page on your next visit, with a button to send the link again. Signing in with Google or GitHub needs no extra step. Invitations to a workspace can only be accept…",
+      "body": "If you sign up with an email address and a password, you now get a confirmation link in your inbox, and the Workspace waits until you have clicked it.\nIf you already have a password account that was never confirmed, you will see the same page on your next visit, with a button to send the link again.\nSigning in with Google or GitHub needs no extra step.\nInvitations to a workspace can only be accepted from a confirmed address, so nobody can join your team by guessing an invited email.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspiantools/updates/2026/2026-11-02-confirm-your-email-address-before-using-the-workspace.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspiantools/updates/2026/2026-11-02-confirm-your-email-address-before-using-the-workspace.md"
+    },
+    {
+      "id": "caspian-taskmaster/release-notes/1.31/1.31.4.md",
+      "folder": "caspian-taskmaster",
+      "product": "Caspian Taskmaster",
+      "title": "Sync tells you when it needs a reconnect",
+      "date": "2026-11-02",
+      "type": "release",
+      "version": "1.31.4",
+      "social": true,
+      "summary": "caspiantools.com now ties each VS Code pairing to one workspace and lets it run for 180 days. When a pairing expires, the extension says so once and offers a Reconnect button, instead of failing quietly in the log every 15 seconds.",
+      "body": "caspiantools.com now ties each VS Code pairing to one workspace and lets it run for 180 days. When a pairing expires, the extension says so once and offers a Reconnect button, instead of failing quietly in the log every 15 seconds.\n\n- 🔔 One notification, one button: **Reconnect** reopens the pairing flow\n- 🔒 A pairing opens only the workspace you picked, and only your tasks and notes there\n- 🕒 Pairings made before today keep working until 1 February 2027\n\nYour issue tracker belongs where your code lives.\n\nhttps://marketplace.visualstudio.com/items?itemName=CaspianTools.caspian-taskmaster\n\n---\n\n## Full changes\n\n### Changed\n- **Sync stops and asks you to reconnect when caspiantools.com refuses the pairing, instead of retrying forever.** caspiantools.com now scopes the VS Code pairing token to the workspace you picked and expires it 180 days after pairing (pairings made before this change keep working until 2027-02-01, then need a reconnect too). Before, an expired or out-of-scope pairing made both sync loops fail every 15 seconds in the log with no visible sign. Now two consecutive `PERMISSION_DENIED` results stop the engine, set the last error to a plain explanation, and show one notification with a **Reconnect** button that runs *Connect to caspiantools.com*.\n- **Share to the web is now owner-only on the server.** Making a task public is accepted by caspiantools.com only from the workspace owner; a member's Share reports `PERMISSION_DENIED`.\n\n## Get it\n\n- VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=CaspianTools.caspian-taskmaster\n- Open VSX: https://open-vsx.org/extension/CaspianTools/caspian-taskmaster",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-taskmaster/release-notes/1.31/1.31.4.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-taskmaster/release-notes/1.31/1.31.4.md"
+    },
+    {
+      "id": "caspian-notes/release-notes/1.4/1.4.9.md",
+      "folder": "caspian-notes",
+      "product": "Caspian Notes",
+      "title": "Sync tells you when it needs a reconnect",
+      "date": "2026-11-02",
+      "type": "release",
+      "version": "1.4.9",
+      "social": true,
+      "summary": "caspiantools.com now ties each VS Code pairing to one workspace and lets it run for 180 days. When a pairing expires, Caspian Notes says so once and offers a Reconnect button, instead of failing quietly in the log every 15 seconds.",
+      "body": "caspiantools.com now ties each VS Code pairing to one workspace and lets it run for 180 days. When a pairing expires, Caspian Notes says so once and offers a Reconnect button, instead of failing quietly in the log every 15 seconds.\n\n- 🔔 One notification, one button: **Reconnect** reopens the pairing flow\n- 🔒 A pairing opens only the workspace you picked, and only your notes there\n- 🛡️ A dependency used to read note front matter received a security update\n\nYour notes stay yours: local first, synced only when you say so.\n\nhttps://marketplace.visualstudio.com/items?itemName=CaspianTools.caspian-notes\n\n---\n\n## Full changes\n\n### Changed\n- **Sync stops and asks you to reconnect when caspiantools.com refuses the pairing, instead of retrying forever.** caspiantools.com now scopes the VS Code pairing token to the workspace you picked and expires it 180 days after pairing (pairings made before this change keep working until 2027-02-01, then need a reconnect too). Before, an expired or out-of-scope pairing made both sync loops fail every 15 seconds in the log with no visible sign. Now two consecutive `PERMISSION_DENIED` results stop the engine, set the last error to a plain explanation, and show one notification with a **Reconnect** button that runs *Caspian Notes: Connect*. `THREAT_MODEL.md` §G records the narrower blast radius of a stolen refresh token.\n\n### Security\n- **`js-yaml` 3.15.1 → 3.15.2** under `gray-matter` (production dependency), clearing GHSA-5p4m-2wfm-xmqj / GHSA-2883-xcg3-v3hh (quadratic CPU on crafted YAML). Only the lockfile moved; the audit is clean again.\n\n## Get it\n\n- VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=CaspianTools.caspian-notes\n- Open VSX: https://open-vsx.org/extension/CaspianTools/caspian-notes",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-notes/release-notes/1.4/1.4.9.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-notes/release-notes/1.4/1.4.9.md"
     },
     {
       "id": "caspian-postman/updates/2026/2026-10-31-sendhaste-2-91-fold-the-conversation.md",
