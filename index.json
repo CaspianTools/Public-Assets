@@ -54,6 +54,20 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspiantools/updates/2026/2026-11-02-confirm-your-email-address-before-using-the-workspace.md"
     },
     {
+      "id": "caspian-taskmaster/release-notes/1.31/1.31.5.md",
+      "folder": "caspian-taskmaster",
+      "product": "Caspian Taskmaster",
+      "title": "Same release as 1.31.4, with an icon the Marketplace accepts",
+      "date": "2026-11-02",
+      "type": "release",
+      "version": "1.31.5",
+      "social": true,
+      "summary": "1.31.4 could not be uploaded to the VS Code Marketplace because the extension icon was larger than the 1024-pixel limit. 1.31.5 is the same build with a 512-pixel icon.",
+      "body": "1.31.4 could not be uploaded to the VS Code Marketplace because the extension icon was larger than the 1024-pixel limit. 1.31.5 is the same build with a 512-pixel icon.\n\n- 🔔 Sync stops and offers **Reconnect** when caspiantools.com refuses the pairing (from 1.31.4)\n- 🖼️ Icon resized so the store accepts the upload\n\nYour issue tracker belongs where your code lives.\n\nhttps://marketplace.visualstudio.com/items?itemName=CaspianTools.caspian-taskmaster\n\n---\n\n## Full changes\n\n### Fixed\n- **Marketplace upload was refused: \"The provided icon image exceeds the maximum allowed dimensions of 1024 by 1024 pixels.\"** `media/icon.png` had been 1363×1221 since the 1.31.3 artwork refresh. It is now 512×512 (the same artwork, fitted on a transparent square), which is also the size VS Code renders it at. No functional change from 1.31.4; this release exists so the 1.31.4 changes can actually be published.\n\n## Get it\n\n- VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=CaspianTools.caspian-taskmaster\n- Open VSX: https://open-vsx.org/extension/CaspianTools/caspian-taskmaster",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-taskmaster/release-notes/1.31/1.31.5.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-taskmaster/release-notes/1.31/1.31.5.md"
+    },
+    {
       "id": "caspian-taskmaster/release-notes/1.31/1.31.4.md",
       "folder": "caspian-taskmaster",
       "product": "Caspian Taskmaster",
