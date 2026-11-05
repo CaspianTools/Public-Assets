@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-11-05-sendhaste-2-94-sign-out-hides-mail.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.94.0 — Your mail leaves the screen when you're signed out",
+      "date": "2026-11-05",
+      "type": "release",
+      "social": false,
+      "summary": "When you're signed out, because the sign-in time ran out, you signed out in another tab, or an admin signed you out everywhere, open SendHaste pages now hide your mail and show the sign-in page within a minute, or as soon as you use the tab again. Before, your emails could stay on screen until you clicked something, which mattered most on shared computers. After you sign in again, you're back on t…",
+      "body": "When you're signed out, because the sign-in time ran out, you signed out in another tab, or an admin signed you out everywhere, open SendHaste pages now hide your mail and show the sign-in page within a minute, or as soon as you use the tab again.\nBefore, your emails could stay on screen until you clicked something, which mattered most on shared computers.\nAfter you sign in again, you're back on the page you were on.\nMore in the help center: https://sendhaste.com/en/help/sign-in-security",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-11-05-sendhaste-2-94-sign-out-hides-mail.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-11-05-sendhaste-2-94-sign-out-hides-mail.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-11-05-sendhaste-2-93-3-sign-in-fix.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
