@@ -4,6 +4,7 @@ One file per release, grouped by minor version, newest first. The full history i
 
 | Version | Date | Headline |
 |---|---|---|
+| [1.237.0](1.237/1.237.0.md) | 2026-11-08 | Updates move into the Changelog; the background remover waits for your click |
 | [1.236.1](1.236/1.236.1.md) | 2026-11-08 | Background remover in one step, plus seven library updates |
 | [1.236.0](1.236/1.236.0.md) | 2026-11-08 | Cleaner cut-outs: hair and fur at full size, no colour halo |
 | [1.235.1](1.235/1.235.1.md) | 2026-10-22 | A tool installs as its own app, even next to the Workspace |
