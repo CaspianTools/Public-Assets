@@ -2,6 +2,20 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-office/release-notes/1.239/1.239.1.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Calendar planner: set your own weekend (Friday and Saturday, Saturday and Sunday and more), with the local working week picked on first visit.",
+      "date": "2026-11-13",
+      "type": "release",
+      "version": "1.239.1",
+      "social": true,
+      "summary": "The weekend is now its own setting in the Calendar planner, so a Friday–Saturday weekend works with any week start. In the Gulf and other Friday–Saturday countries, a new calendar now starts on Sunday with Friday and Saturday as the weekend.",
+      "body": "![](https://caspianoffice.io/release/v1.239.1.png)\n\n# Caspian Office 1.239.1: Choose your own weekend in the Calendar planner\n\nThe weekend is now its own setting in the Calendar planner, so a Friday–Saturday weekend works with any week start. In the Gulf and other Friday–Saturday countries, a new calendar now starts on Sunday with Friday and Saturday as the weekend.\n\n- **Improved — Set the weekend.** Saturday and Sunday, Friday and Saturday, Thursday and Friday, Friday only or Sunday only.\n- **Improved — Your local week from the start.** New calendars follow your time zone; ones you already use keep their week.\n\nFree, private and offline: your calendar never leaves your browser.\n\n🔗 Live: https://caspianoffice.io/tool/calendar-planner/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Changed\n- **Set the weekend.** The Calendar planner has a **Weekend** setting, separate from the week start: Saturday and Sunday, Friday and Saturday, Thursday and Friday, Friday only or Sunday only. Weekend days are shaded in every view, and \"show weekends\" hides exactly those days.\n- **Your local week on the first visit.** In the Gulf, Egypt, Jordan, Iraq, Bangladesh and other countries with a Friday–Saturday weekend, a new calendar now starts on Sunday with Friday and Saturday as the weekend. Calendars you have already set up keep their week as it was.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.239/1.239.1.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.239/1.239.1.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.239/1.239.0.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
