@@ -2,6 +2,20 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-office/release-notes/1.240/1.240.0.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Calendar planner: click an event for a quick menu, and new events are only added when you press Save.",
+      "date": "2026-11-13",
+      "type": "release",
+      "version": "1.240.0",
+      "social": true,
+      "summary": "Click any event in the Calendar planner for a quick menu: edit, duplicate, copy it forward, recolour or delete it. A stray click on the calendar no longer leaves an empty event behind, because nothing is added until you press Save.",
+      "body": "![](https://caspianoffice.io/release/v1.240.0.png)\n\n# Caspian Office 1.240.0: An event menu, and nothing is added until you press Save\n\nClick any event in the Calendar planner for a quick menu: edit, duplicate, copy it forward, recolour or delete it. A stray click on the calendar no longer leaves an empty event behind, because nothing is added until you press Save.\n\n- **New — Event menu.** Edit, Duplicate, Copy to next day, Copy to next week, category colours and Delete, right where you click.\n- **Fixed — No accidental events.** Cancel, ✕, Esc or a click outside throws a new event away and undoes unsaved changes.\n\nFree, private and offline: your calendar never leaves your browser.\n\n🔗 Live: https://caspianoffice.io/tool/calendar-planner/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Added\n- **Event menu.** In the Calendar planner, click an event (or right-click it) for a quick menu: **Edit**, **Duplicate**, **Copy to next day**, **Copy to next week**, a row of category colours and **Delete**, with **Delete this date only** for a repeating event. Double-click an event to open its editor straight away.\n\n### Fixed\n- **An accidental click no longer leaves an event behind.** Clicking the calendar opens the editor for a new event, but the event is only added when you press **Save** (or Enter in the title). Cancel, ✕, Esc or a click outside the editor throws it away, and the same buttons undo unsaved changes to an existing event.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.240/1.240.0.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.240/1.240.0.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.239/1.239.1.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
