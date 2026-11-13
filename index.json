@@ -2,6 +2,20 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-office/release-notes/1.241/1.241.1.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Markdown rendering updated to marked 18.2.0, plus refreshed developer tooling.",
+      "date": "2026-11-13",
+      "type": "release",
+      "version": "1.241.1",
+      "social": true,
+      "summary": "The Markdown editor and the word processor now run on the latest marked release. Every other bundled library was checked against its newest version and is already up to date.",
+      "body": "![](https://caspianoffice.io/release/v1.241.1.png)\n\n# Caspian Office 1.241.1: Markdown engine updated to marked 18.2.0\n\nThe Markdown editor and the word processor now run on the latest marked release. Every other bundled library was checked against its newest version and is already up to date.\n\n- **Improved — Markdown engine.** marked 18.2.0 powers Markdown rendering in the Markdown editor and the word processor.\n\nFree, private and offline: your documents never leave your browser.\n\n🔗 Live: https://caspianoffice.io/tool/markdown/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Changed\n- **Markdown engine updated.** The Markdown editor and the word processor now use marked 18.2.0, the latest release. Every other bundled library was checked against its newest version and is already current.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.241/1.241.1.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.241/1.241.1.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.241/1.241.0.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
