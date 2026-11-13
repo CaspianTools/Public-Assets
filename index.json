@@ -2,6 +2,20 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-office/release-notes/1.239/1.239.0.md",
+      "folder": "caspian-office",
+      "product": "Caspian Office",
+      "title": "Calendar planner gains a printable year planner, a 2-week view, Alt-drag to copy events and an Hours control for your working day.",
+      "date": "2026-11-13",
+      "type": "release",
+      "version": "1.239.0",
+      "social": true,
+      "summary": "The Calendar planner now shows your whole year at a glance and prints it on one page. You can plan two weeks side by side and copy an event just by dragging it.",
+      "body": "![](https://caspianoffice.io/release/v1.239.0.png)\n\n# Caspian Office 1.239.0: A printable year planner, a 2-week view and drag to copy\n\nThe Calendar planner now shows your whole year at a glance and prints it on one page. You can plan two weeks side by side and copy an event just by dragging it.\n\n- **New — Year planner.** Twelve months at once, with busy days tinted in their category colour. Download it as a one-page PDF.\n- **New — 2-week view.** Fourteen days on the time grid, two weeks per click.\n- **New — Drag to copy.** Hold Alt (or Ctrl / ⌘) while dragging to drop a copy instead of moving the event.\n- **Improved — Hours in the toolbar.** Show only your working day, such as 06:00 to 18:00, in one click.\n\nFree, private and offline: your calendar never leaves your browser.\n\n🔗 Live: https://caspianoffice.io/tool/calendar-planner/\n📝 Changelog: https://caspianoffice.io/changelog\n\n---\n\n## Full changes\n\n### Added\n- **Year planner.** The Calendar planner has a **Year** view: all twelve months at once, each busy day tinted in its category colour, with dots when several categories share a day. Click a month or a day to open it. The PDF puts the whole year on one landscape page with a category legend, ready to print.\n- **2-week view.** See fourteen days side by side on the time grid; the arrows move two weeks at a time.\n- **Drag to copy.** Hold **Alt** (or Ctrl / ⌘) while dragging an event to drop a copy instead of moving it, on the time grid, in Month view and in the all-day row. A copy of a repeating event is a one-off on the day you drop it.\n\n### Changed\n- **Hours in the toolbar.** Choose the first and last hour of your day, for example 06:00 to 18:00, straight from the toolbar in Day, Week and 2-week views instead of opening Settings.\n\n## Get it\n\n- Web: https://caspianoffice.io\n- Workspace (installable app): https://caspianoffice.io/app/",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-office/release-notes/1.239/1.239.0.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-office/release-notes/1.239/1.239.0.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.238/1.238.0.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
