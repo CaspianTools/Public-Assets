@@ -4,6 +4,7 @@ One file per release, grouped by minor version, newest first. The full history i
 
 | Version | Date | Headline |
 |---|---|---|
+| [1.241.1](1.241/1.241.1.md) | 2026-11-13 | Markdown engine updated to marked 18.2.0 |
 | [1.241.0](1.241/1.241.0.md) | 2026-11-13 | Design and print a one-page year calendar |
 | [1.240.0](1.240/1.240.0.md) | 2026-11-13 | An event menu, and nothing is added until you press Save |
 | [1.239.1](1.239/1.239.1.md) | 2026-11-13 | Choose your own weekend in the Calendar planner |
