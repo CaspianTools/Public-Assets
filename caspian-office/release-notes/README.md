@@ -4,6 +4,7 @@ One file per release, grouped by minor version, newest first. The full history i
 
 | Version | Date | Headline |
 |---|---|---|
+| [1.241.0](1.241/1.241.0.md) | 2026-11-13 | Design and print a one-page year calendar |
 | [1.240.0](1.240/1.240.0.md) | 2026-11-13 | An event menu, and nothing is added until you press Save |
 | [1.239.1](1.239/1.239.1.md) | 2026-11-13 | Choose your own weekend in the Calendar planner |
 | [1.239.0](1.239/1.239.0.md) | 2026-11-13 | A printable year planner, a 2-week view and drag to copy |
