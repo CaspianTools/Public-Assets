@@ -4,6 +4,7 @@ One file per release, grouped by minor version, newest first. The full history i
 
 | Version | Date | Headline |
 |---|---|---|
+| [1.242.2](1.242/1.242.2.md) | 2026-11-14 | The Calendar planner's month view now fills your screen |
 | [1.242.1](1.242/1.242.1.md) | 2026-11-14 | The Calendar planner now fills your screen |
 | [1.242.0](1.242/1.242.0.md) | 2026-11-13 | A scrolling timeline, reminders and Islamic dates in the Calendar planner |
 | [1.241.1](1.241/1.241.1.md) | 2026-11-13 | Markdown engine updated to marked 18.2.0 |
