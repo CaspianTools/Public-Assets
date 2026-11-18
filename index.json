@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspiantools/updates/2026/2026-11-18-a-new-look-for-caspiantools-com.md",
+      "folder": "caspiantools",
+      "product": "Caspian Tools Workspace",
+      "title": "A new look for caspiantools.com",
+      "date": "2026-11-18",
+      "type": "feature",
+      "social": false,
+      "summary": "caspiantools.com has a new design. The home page now shows the four kinds of software we make and what Workspace does. Projects can be filtered by kind, the UI Library has search, and the three policy pages are one click apart. The Workspace app also has a lighter background.",
+      "body": "caspiantools.com has a new design.\nThe home page now shows the four kinds of software we make and what Workspace does.\nProjects can be filtered by kind, the UI Library has search, and the three policy pages are one click apart.\nThe Workspace app also has a lighter background.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspiantools/updates/2026/2026-11-18-a-new-look-for-caspiantools-com.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspiantools/updates/2026/2026-11-18-a-new-look-for-caspiantools-com.md"
+    },
+    {
       "id": "caspian-office/release-notes/1.242/1.242.2.md",
       "folder": "caspian-office",
       "product": "Caspian Office",
