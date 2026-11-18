@@ -4,7 +4,7 @@ title: Flows get templates, task links, comments and live cursors
 date: 2026-11-18
 type: feature
 social: false
-draft: true
+draft: false
 ---
 
 The flow editor now works like a dedicated diagram tool. Lines can be curved, straight or right-angled, with arrows at either end, and you can drag a line's end onto another shape. There are five new shapes (database, document, note, person and group box), text size, bold, alignment and colour, plus align, spread out and front or back ordering.
