@@ -2,6 +2,19 @@
   "version": 1,
   "items": [
     {
+      "id": "caspian-postman/updates/2026/2026-11-19-sendhaste-2-95-1-reading-pane-fixes.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.95.1 — Smoother reading in long conversations and narrow windows",
+      "date": "2026-11-19",
+      "type": "release",
+      "social": false,
+      "summary": "Long conversations scroll smoothly again: the mouse wheel no longer gets stuck inside each email. With the reading pane open in a narrow window, the list and the pane no longer scroll sideways, and Reply, Reply all and Forward stay on one row. An email's date and time are no longer cut off when the sender's name or address is long. Opening Mail without choosing a mailbox now opens the one you read…",
+      "body": "Long conversations scroll smoothly again: the mouse wheel no longer gets stuck inside each email.\nWith the reading pane open in a narrow window, the list and the pane no longer scroll sideways, and **Reply**, **Reply all** and **Forward** stay on one row.\nAn email's date and time are no longer cut off when the sender's name or address is long.\nOpening Mail without choosing a mailbox now opens the one you read last, and replying to an email without a subject gives \"Re: (no subject)\".",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-11-19-sendhaste-2-95-1-reading-pane-fixes.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-11-19-sendhaste-2-95-1-reading-pane-fixes.md"
+    },
+    {
       "id": "caspiantools/updates/2026/2026-11-18-workspace-gets-quick-add-and-a-block-editor.md",
       "folder": "caspiantools",
       "product": "Caspian Tools Workspace",
