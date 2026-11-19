@@ -15,6 +15,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-11-19-sendhaste-2-98-faster-pages-and-search-as-you-type.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-11-19-sendhaste-2-98-1-settings-sections-in-view.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.98.1 — All of Settings' sections stay in view",
+      "date": "2026-11-19",
+      "type": "release",
+      "social": false,
+      "summary": "In Settings, the column of section icons no longer scrolls or makes the page scroll. In a short window the sections continue in a second column, so every section is always one click away.",
+      "body": "In **Settings**, the column of section icons no longer scrolls or makes the page scroll.\nIn a short window the sections continue in a second column, so every section is always one click away.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-11-19-sendhaste-2-98-1-settings-sections-in-view.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-11-19-sendhaste-2-98-1-settings-sections-in-view.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-11-19-sendhaste-2-95-1-reading-pane-fixes.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
