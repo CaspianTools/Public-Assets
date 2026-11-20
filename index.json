@@ -15,6 +15,32 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-11-20-zekio-2-26-isg-ve-yos-icin-172-yeni-test.md"
     },
     {
+      "id": "zekio/updates/2026/2026-11-20-zekio-2-26-2-donusum-geometrisi-testi-yenilendi.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.26.2: Dönüşüm Geometrisi testi güncel müfredata göre yenilendi",
+      "date": "2026-11-20",
+      "type": "fix",
+      "social": false,
+      "summary": "LGS Matematik'teki Dönüşüm Geometrisi Test 2, artık 8. sınıf müfredatında yer almayan dönme konusunu soruyordu. Test, öteleme ve yansıma üzerine on yeni zor soruyla baştan yazıldı: kayan bir doğru parçasının taradığı alan, bir noktanın yansımasıyla bulunan en kısa yol gibi sınavda karşına çıkabilecek durumlar. Testin paylaşım kodu değişmedi; daha önce kaydettiysen aynı yerde bulursun.",
+      "body": "LGS Matematik'teki Dönüşüm Geometrisi Test 2, artık 8. sınıf müfredatında yer almayan dönme konusunu soruyordu. Test, öteleme ve yansıma üzerine on yeni zor soruyla baştan yazıldı: kayan bir doğru parçasının taradığı alan, bir noktanın yansımasıyla bulunan en kısa yol gibi sınavda karşına çıkabilecek durumlar. Testin paylaşım kodu değişmedi; daha önce kaydettiysen aynı yerde bulursun.\n\nZekio rewrote one LGS geometry test to match the current 8th-grade syllabus: ten new translation and reflection questions.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-11-20-zekio-2-26-2-donusum-geometrisi-testi-yenilendi.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-11-20-zekio-2-26-2-donusum-geometrisi-testi-yenilendi.md"
+    },
+    {
+      "id": "zekio/updates/2026/2026-11-20-zekio-2-26-1-isg-sorulari-resmi-metinlerle-dogrulandi.md",
+      "folder": "zekio",
+      "product": "Zekio",
+      "title": "Zekio 2.26.1: İSG soruları resmî metinlerle yeniden doğrulandı",
+      "date": "2026-11-20",
+      "type": "fix",
+      "social": false,
+      "summary": "Son İSG paketindeki soruların dayandığı kanun ve yönetmelik maddeleri, yürürlükteki resmî metinlerle tek tek karşılaştırıldı. Soruların büyük çoğunluğu olduğu gibi doğru çıktı. Büyük endüstriyel kazalar ile termal konfor ve havalandırma testlerindeki birkaç soru, güncel yönetmeliğin kendi ifadelerine göre yenilendi. Böylece çözdüğün her İSG sorusu, bugün geçerli olan kurala dayanıyor.",
+      "body": "Son İSG paketindeki soruların dayandığı kanun ve yönetmelik maddeleri, yürürlükteki resmî metinlerle tek tek karşılaştırıldı. Soruların büyük çoğunluğu olduğu gibi doğru çıktı. Büyük endüstriyel kazalar ile termal konfor ve havalandırma testlerindeki birkaç soru, güncel yönetmeliğin kendi ifadelerine göre yenilendi. Böylece çözdüğün her İSG sorusu, bugün geçerli olan kurala dayanıyor.\n\nZekio re-checked its newest İSG questions against the official regulation texts in force and updated the few that relied on older wording.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/zekio/updates/2026/2026-11-20-zekio-2-26-1-isg-sorulari-resmi-metinlerle-dogrulandi.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-11-20-zekio-2-26-1-isg-sorulari-resmi-metinlerle-dogrulandi.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-11-20-sendhaste-2-98-2-settings-section-column.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
