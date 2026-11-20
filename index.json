@@ -54,6 +54,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-11-20-sendhaste-2-98-2-settings-section-column.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-11-20-sendhaste-2-101-api-says-whether-a-failed-email-went-out.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.101.0 — the sending API says whether a failed email went out",
+      "date": "2026-11-20",
+      "type": "release",
+      "social": false,
+      "summary": "When the sending API cannot send an email, its answer now tells your app whether the email went out. A new field, error.sent, is \"no\" when the email did not go out, so your app can safely send it again, or \"unknown\" in the rare case that could not be confirmed. Nothing else in the answer changes, so existing code keeps working. The details are in the API guide.",
+      "body": "When the sending API cannot send an email, its answer now tells your app whether the email went out.\nA new field, `error.sent`, is `\"no\"` when the email did not go out, so your app can safely send it again, or `\"unknown\"` in the rare case that could not be confirmed.\nNothing else in the answer changes, so existing code keeps working.\nThe details are in the [API guide](https://sendhaste.com/en/help/api).",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-11-20-sendhaste-2-101-api-says-whether-a-failed-email-went-out.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-11-20-sendhaste-2-101-api-says-whether-a-failed-email-went-out.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-11-20-sendhaste-2-100-daily-limit-per-domain.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
