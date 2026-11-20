@@ -41,6 +41,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/zekio/updates/2026/2026-11-20-zekio-2-26-1-isg-sorulari-resmi-metinlerle-dogrulandi.md"
     },
     {
+      "id": "caspiantools/updates/2026/2026-11-20-quick-add-buttons-stay-in-view.md",
+      "folder": "caspiantools",
+      "product": "Caspian Tools Workspace",
+      "title": "Quick-add buttons stay in view",
+      "date": "2026-11-20",
+      "type": "fix",
+      "social": false,
+      "summary": "In the New item dialog, the Cancel and Create buttons now stay pinned to the bottom of the window while you scroll through a long form. Before, they scrolled away with the fields, so on a smaller screen you had to scroll down to find them. This applies to new tasks, notes, checklists, flows, sprints, milestones and projects.",
+      "body": "In the New item dialog, the Cancel and Create buttons now stay pinned to the bottom of the window while you scroll through a long form. Before, they scrolled away with the fields, so on a smaller screen you had to scroll down to find them. This applies to new tasks, notes, checklists, flows, sprints, milestones and projects.",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspiantools/updates/2026/2026-11-20-quick-add-buttons-stay-in-view.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspiantools/updates/2026/2026-11-20-quick-add-buttons-stay-in-view.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-11-20-sendhaste-2-98-2-settings-section-column.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
