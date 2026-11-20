@@ -67,6 +67,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-11-20-sendhaste-2-98-2-settings-section-column.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-11-20-sendhaste-2-103-undeliverable-only-when-the-address-is-the-problem.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.103.0 — Undeliverable only when the address is the problem",
+      "date": "2026-11-20",
+      "type": "release",
+      "social": false,
+      "summary": "SendHaste now marks an address Undeliverable only when the address itself is the problem: it doesn't exist, its domain can't receive mail, or its mailbox was full on three different days. A bounce that wasn't the address's fault no longer counts, and addresses marked that way before are back in your lists. Group emails skip undeliverable addresses as before, and the sending API now refuses them wi…",
+      "body": "SendHaste now marks an address **Undeliverable** only when the address itself is the problem: it doesn't exist, its domain can't receive mail, or its mailbox was full on three different days. A bounce that wasn't the address's fault no longer counts, and addresses marked that way before are back in your lists.\nGroup emails skip undeliverable addresses as before, and the sending API now refuses them with the new error `recipient_undeliverable`, listing the addresses in `error.addresses`, so your app can ask the person to check their address.\nBounce notices in your mailbox open normally again.\nSee [Contacts](https://sendhaste.com/en/help/contacts) and the [API guide](https://sendhaste.com/en/help/api).",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-11-20-sendhaste-2-103-undeliverable-only-when-the-address-is-the-problem.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-11-20-sendhaste-2-103-undeliverable-only-when-the-address-is-the-problem.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-11-20-sendhaste-2-101-api-says-whether-a-failed-email-went-out.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
