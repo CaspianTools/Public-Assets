@@ -54,6 +54,19 @@
       "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-11-20-sendhaste-2-98-2-settings-section-column.md"
     },
     {
+      "id": "caspian-postman/updates/2026/2026-11-20-sendhaste-2-100-daily-limit-per-domain.md",
+      "folder": "caspian-postman",
+      "product": "SendHaste",
+      "title": "SendHaste 2.100.0 — a daily sending limit of your domain's own",
+      "date": "2026-11-20",
+      "type": "release",
+      "social": false,
+      "summary": "A domain can now have its own daily sending limit, higher than the standard one, agreed with the SendHaste team. Your domain's page in Settings → Domains shows its limit next to Emails today, and under Sending limits.",
+      "body": "A domain can now have its own daily sending limit, higher than the standard one, agreed with the SendHaste team. Your domain's page in **Settings → Domains** shows its limit next to **Emails today**, and under **Sending limits**.\n\nWhen a domain's daily limit goes up during the day, emails that were held for tomorrow and now fit go out within a few minutes instead of waiting for midnight UTC. Nothing changes for you if your domain stays on the standard limit.\n\nIf your website or app sends through the API and needs more room, write to us from **Support** in the account menu. The limits are explained in the help center: https://sendhaste.com/en/help/api",
+      "url": "https://github.com/CaspianTools/Public-Assets/blob/main/caspian-postman/updates/2026/2026-11-20-sendhaste-2-100-daily-limit-per-domain.md",
+      "rawUrl": "https://raw.githubusercontent.com/CaspianTools/Public-Assets/main/caspian-postman/updates/2026/2026-11-20-sendhaste-2-100-daily-limit-per-domain.md"
+    },
+    {
       "id": "caspian-postman/updates/2026/2026-11-19-sendhaste-2-98-faster-pages-and-search-as-you-type.md",
       "folder": "caspian-postman",
       "product": "SendHaste",
